@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: parecer
+gloss: to seem, to look like
+tipo: irregular
+uso:
+  - ["seem", "Parece fácil.", "It seems easy."]
+  - ["look", "Parece cansado.", "He looks tired."]
+  - ["opinion", "¿Qué te parece?", "What do you think?"]
+  - ["agree", "Me parece bien.", "Sounds good."]
+  - ["it looks like", "Parece que sí.", "It looks like it."]
+  - ["resemble", "Se parece a ti.", "He looks like you."]
+gerundio: pareciendo
+participio: parecido
+forms:
+  presente: ["pare[zc]o", "pareces", "parece", "parecemos", "parecéis", "parecen"]
+  indefinido: ["parecí", "pareciste", "pareció", "parecimos", "parecisteis", "parecieron"]
+  imperfecto: ["parecía", "parecías", "parecía", "parecíamos", "parecíais", "parecían"]
+  futuro: ["pareceré", "parecerás", "parecerá", "pareceremos", "pareceréis", "parecerán"]
+  condicional: ["parecería", "parecerías", "parecería", "pareceríamos", "pareceríais", "parecerían"]
+  imperativo: [null, "parece", "pare[zc]a", "pare[zc]amos", "pareced", "pare[zc]an"]
+  imperativo-negativo: [null, "no pare[zc]as", "no pare[zc]a", "no pare[zc]amos", "no pare[zc]áis", "no pare[zc]an"]
+  subjuntivo: ["pare[zc]a", "pare[zc]as", "pare[zc]a", "pare[zc]amos", "pare[zc]áis", "pare[zc]an"]
+  subjuntivo-imperfecto: ["pareciera", "parecieras", "pareciera", "pareciéramos", "parecierais", "parecieran"]
+  perfecto: ["he parecido", "has parecido", "ha parecido", "hemos parecido", "habéis parecido", "han parecido"]
+  pluscuamperfecto: ["había parecido", "habías parecido", "había parecido", "habíamos parecido", "habíais parecido", "habían parecido"]
+expresiones:
+  - ["¿Qué te parece?", "What do you think?"]
+  - ["me parece bien", "sounds good to me"]
+  - ["parece que …", "it seems that …"]
+  - ["parecerse a", "to look like (someone)"]
+  - ["al parecer", "apparently"]
+  - ["a mi parecer", "in my opinion"]
+  - ["me parece que sí / no", "I think so / I don't think so"]
+  - ["¿Te parece si …?", "How about …?"]
+  - ["parece mentira", "it's hard to believe"]
+vos:
+  presente: parecés
+  imperativo: parecé
+examples:
+  presente: "*Parezco* cansado, pero estoy bien."
+  indefinido: "La película me *pareció* muy buena."
+  imperfecto: "El examen *parecía* fácil."
+  futuro: "Mañana todo te *parecerá* más fácil."
+  condicional: "¿Te *parecería* bien el lunes?"
+  imperativo: "*Parezca* tranquilo en la entrevista."
+  subjuntivo: "Aunque *parezca* raro, me gusta el frío."
+  subjuntivo-imperfecto: "Si me *pareciera* caro, no lo compraría."
+  perfecto: "¿Alguna vez te *ha parecido* difícil?"
+  pluscuamperfecto: "Nunca me *había parecido* tan bonita."
+  gerundio: "El curso me *está pareciendo* fácil."
+  participio: "Nunca me *ha parecido* buena idea."
+translations:
+  presente: I look tired, but I'm fine.
+  indefinido: I thought the movie was very good.
+  imperfecto: The exam seemed easy.
+  futuro: Tomorrow it will all seem easier to you.
+  condicional: Would Monday work for you?
+  imperativo: Look calm in the interview.
+  subjuntivo: Strange as it may seem, I like the cold.
+  subjuntivo-imperfecto: If it seemed expensive, I wouldn't buy it.
+  perfecto: Has it ever seemed hard to you?
+  pluscuamperfecto: It had never seemed so pretty to me.
+  gerundio: I'm finding the course easy.
+  participio: It has never seemed like a good idea to me.

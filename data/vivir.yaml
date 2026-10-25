@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: vivir
+gloss: to live
+tipo: regular
+uso:
+  - ["live in", "Vivo en Xela.", "I live in Xela."]
+  - ["alone", "Vivo sola.", "I live alone."]
+  - ["go through", "Vivimos un temblor.", "We had a quake."]
+  - ["make a living", "Vive del café.", "He lives off coffee."]
+  - ["enjoy life", "¡Hay que vivir!", "You have to live!"]
+  - ["cheer", "¡Viva Guatemala!", "Long live Guatemala!"]
+gerundio: viviendo
+participio: vivido
+forms:
+  presente: ["vivo", "vives", "vive", "vivimos", "vivís", "viven"]
+  indefinido: ["viví", "viviste", "vivió", "vivimos", "vivisteis", "vivieron"]
+  imperfecto: ["vivía", "vivías", "vivía", "vivíamos", "vivíais", "vivían"]
+  futuro: ["viviré", "vivirás", "vivirá", "viviremos", "viviréis", "vivirán"]
+  condicional: ["viviría", "vivirías", "viviría", "viviríamos", "viviríais", "vivirían"]
+  imperativo: [null, "vive", "viva", "vivamos", "vivid", "vivan"]
+  imperativo-negativo: [null, "no vivas", "no viva", "no vivamos", "no viváis", "no vivan"]
+  subjuntivo: ["viva", "vivas", "viva", "vivamos", "viváis", "vivan"]
+  subjuntivo-imperfecto: ["viviera", "vivieras", "viviera", "viviéramos", "vivierais", "vivieran"]
+  perfecto: ["he vivido", "has vivido", "ha vivido", "hemos vivido", "habéis vivido", "han vivido"]
+  pluscuamperfecto: ["había vivido", "habías vivido", "había vivido", "habíamos vivido", "habíais vivido", "habían vivido"]
+expresiones:
+  - ["vivir en", "to live in"]
+  - ["vivir con", "to live with"]
+  - ["vivir solo", "to live alone"]
+  - ["vivir juntos", "to live together"]
+  - ["vivir de", "to make a living from"]
+  - ["vivir al día", "to live day to day"]
+  - ["vivir en las nubes", "to have your head in the clouds"]
+  - ["¡Viva …!", "Long live …!"]
+  - ["¿Dónde vivís?", "Where do you live?"]
+vos:
+  presente: vivís
+  imperativo: viví
+examples:
+  presente: "*Vivo* en Xela desde hace un año."
+  indefinido: "*Viví* tres años en la capital."
+  imperfecto: "De niña *vivía* cerca del lago."
+  futuro: "Algún día *viviré* en la playa."
+  condicional: "*Viviría* en Antigua, pero es caro."
+  imperativo: "*Vive* el momento."
+  subjuntivo: "Espero que *vivas* muchos años."
+  subjuntivo-imperfecto: "Si *viviera* en Xela, usaría chumpa."
+  perfecto: "Nunca *he vivido* fuera de Guatemala."
+  pluscuamperfecto: "Nunca *había vivido* solo."
+  gerundio: "*Estoy viviendo* con mi tía."
+  participio: "¿Alguna vez *has vivido* un temblor?"
+translations:
+  presente: I've lived in Xela for a year.
+  indefinido: I lived in the capital for three years.
+  imperfecto: As a girl I lived near the lake.
+  futuro: Someday I'll live at the beach.
+  condicional: I'd live in Antigua, but it's expensive.
+  imperativo: Live in the moment.
+  subjuntivo: I hope you live many years.
+  subjuntivo-imperfecto: If I lived in Xela, I'd wear a jacket.
+  perfecto: I've never lived outside Guatemala.
+  pluscuamperfecto: I had never lived alone.
+  gerundio: I'm living with my aunt.
+  participio: Have you ever been through an earthquake?

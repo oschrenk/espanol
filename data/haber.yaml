@@ -1,0 +1,61 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: haber
+gloss: "to have (auxiliary)"
+tipo: irregular
+uso:
+  - ["auxiliary", "Ya he comido.", "I've already eaten."]
+  - ["there is", "Hay un banco aquí.", "There's a bank here."]
+  - ["there was", "Había mucha gente.", "It was crowded."]
+  - ["there will be", "Habrá fiesta.", "There will be a party."]
+  - ["one must", "Hay que pagar.", "You have to pay."]
+  - ["probably", "Ha de estar en casa.", "He must be at home."]
+gerundio: habiendo
+participio: habido
+forms:
+  presente: ["[he]", "[has]", "[ha]", "[hemos]", "habéis", "[han]"]
+  indefinido: ["[hub]e", "[hub]iste", "[hub]o", "[hub]imos", "[hub]isteis", "[hub]ieron"]
+  imperfecto: ["había", "habías", "había", "habíamos", "habíais", "habían"]
+  futuro: ["[habr]é", "[habr]ás", "[habr]á", "[habr]emos", "[habr]éis", "[habr]án"]
+  condicional: ["[habr]ía", "[habr]ías", "[habr]ía", "[habr]íamos", "[habr]íais", "[habr]ían"]
+  imperativo: [null, null, null, null, null, null]
+  imperativo-negativo: [null, null, null, null, null, null]
+  subjuntivo: ["ha[y]a", "ha[y]as", "ha[y]a", "ha[y]amos", "ha[y]áis", "ha[y]an"]
+  subjuntivo-imperfecto: ["[hub]iera", "[hub]ieras", "[hub]iera", "[hub]iéramos", "[hub]ierais", "[hub]ieran"]
+  perfecto: ["he habido", "has habido", "ha habido", "hemos habido", "habéis habido", "han habido"]
+  pluscuamperfecto: ["había habido", "habías habido", "había habido", "habíamos habido", "habíais habido", "habían habido"]
+expresiones:
+  - ["hay", "there is / there are"]
+  - ["hay que + inf.", "one has to"]
+  - ["no hay de qué", "you're welcome"]
+  - ["no hay problema", "no problem"]
+  - ["¿Qué hay de nuevo?", "what's new?"]
+  - ["ha de ser", "it must be"]
+  - ["hay de todo", "there's a bit of everything"]
+  - ["habrá que ver", "we'll have to see"]
+  - ["había una vez", "once upon a time"]
+examples:
+  presente: "Ya *he* comido, gracias."
+  indefinido: "Ayer *hubo* un choque en la carretera."
+  imperfecto: "*Había* mucha gente en el mercado."
+  futuro: "Mañana *habrá* mucho tráfico."
+  condicional: "Sin lluvia *habría* más turistas."
+  imperativo: null
+  subjuntivo: "Ojalá no *haya* tráfico."
+  subjuntivo-imperfecto: "Si *hubiera* tiempo, iríamos al lago."
+  perfecto: "¿Alguna vez *ha habido* un temblor aquí?"
+  pluscuamperfecto: "Nunca *había habido* tanta lluvia."
+  gerundio: "*Habiendo* comido, salimos."
+  participio: "*Ha habido* un problema con el carro."
+translations:
+  presente: I've already eaten, thanks.
+  indefinido: Yesterday there was a crash on the highway.
+  imperfecto: There were a lot of people at the market.
+  futuro: There will be a lot of traffic tomorrow.
+  condicional: Without rain there would be more tourists.
+  imperativo: null
+  subjuntivo: I hope there's no traffic.
+  subjuntivo-imperfecto: If there were time, we'd go to the lake.
+  perfecto: Has there ever been an earthquake here?
+  pluscuamperfecto: There had never been so much rain.
+  gerundio: Having eaten, we went out.
+  participio: There has been a problem with the car.

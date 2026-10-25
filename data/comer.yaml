@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: comer
+gloss: to eat
+tipo: regular
+uso:
+  - ["eat", "Como tortillas.", "I eat tortillas."]
+  - ["meal", "Comemos a la una.", "We eat at one."]
+  - ["eat up", "Se comió todo.", "He ate it all."]
+  - ["eat out", "Comemos afuera.", "We're eating out."]
+  - ["nails", "Me como las uñas.", "I bite my nails."]
+  - ["capture", "Me comí tu reina.", "I took your queen."]
+gerundio: comiendo
+participio: comido
+forms:
+  presente: ["como", "comes", "come", "comemos", "coméis", "comen"]
+  indefinido: ["comí", "comiste", "comió", "comimos", "comisteis", "comieron"]
+  imperfecto: ["comía", "comías", "comía", "comíamos", "comíais", "comían"]
+  futuro: ["comeré", "comerás", "comerá", "comeremos", "comeréis", "comerán"]
+  condicional: ["comería", "comerías", "comería", "comeríamos", "comeríais", "comerían"]
+  imperativo: [null, "come", "coma", "comamos", "comed", "coman"]
+  imperativo-negativo: [null, "no comas", "no coma", "no comamos", "no comáis", "no coman"]
+  subjuntivo: ["coma", "comas", "coma", "comamos", "comáis", "coman"]
+  subjuntivo-imperfecto: ["comiera", "comieras", "comiera", "comiéramos", "comierais", "comieran"]
+  perfecto: ["he comido", "has comido", "ha comido", "hemos comido", "habéis comido", "han comido"]
+  pluscuamperfecto: ["había comido", "habías comido", "había comido", "habíamos comido", "habíais comido", "habían comido"]
+expresiones:
+  - ["comer afuera", "to eat out"]
+  - ["darle de comer a", "to feed"]
+  - ["comer de todo", "to eat everything"]
+  - ["¿Qué hay de comer?", "What's to eat?"]
+  - ["comer como coche", "to eat like a pig"]
+  - ["comer como pajarito", "to eat like a bird"]
+  - ["comerse las uñas", "to bite one's nails"]
+  - ["comerse las palabras", "to mumble"]
+  - ["sin comerlo ni beberlo", "through no fault of your own"]
+vos:
+  presente: comés
+  imperativo: comé
+examples:
+  presente: "*Como* frijoles casi todos los días."
+  indefinido: "Ayer *comí* pepián en Xela."
+  imperfecto: "De niño *comía* mucho mango."
+  futuro: "Mañana *comeremos* con mi suegra."
+  condicional: "Yo no *comería* eso."
+  imperativo: "*Come* más tortillas, mijo."
+  subjuntivo: "Quiero que *comas* algo antes."
+  subjuntivo-imperfecto: "Si *comieras* mejor, no te enfermarías."
+  perfecto: "¿Alguna vez *has comido* chuchitos?"
+  pluscuamperfecto: "Nunca *había comido* tamales negros."
+  gerundio: "*Estamos comiendo* en el carro."
+  participio: "Ya *he comido*, gracias."
+translations:
+  presente: I eat beans almost every day.
+  indefinido: Yesterday I ate pepián in Xela.
+  imperfecto: As a child I ate a lot of mango.
+  futuro: Tomorrow we'll eat with my mother-in-law.
+  condicional: I wouldn't eat that.
+  imperativo: Eat more tortillas, son.
+  subjuntivo: I want you to eat something first.
+  subjuntivo-imperfecto: If you ate better, you wouldn't get sick.
+  perfecto: Have you ever eaten chuchitos?
+  pluscuamperfecto: I had never eaten black tamales.
+  gerundio: We're eating in the car.
+  participio: I've already eaten, thanks.

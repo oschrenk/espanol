@@ -1,0 +1,55 @@
+version: "3"
+
+vars:
+  SRC: verbs.typ
+  OUT: Español.pdf
+
+tasks:
+  default:
+    cmds:
+      - task: pdf
+
+  format:
+    desc: Reformat Typst sources (WARNING - reflows the hand-aligned tables)
+    cmds:
+      - typstyle --inplace theme.typ
+      - typstyle --inplace {{.SRC}}
+
+  pdf:
+    desc: Compile verbs to PDF
+    sources:
+      - "{{.SRC}}"
+      - theme.typ
+      - rules.typ
+      - serestar.typ
+      - regulares.typ
+      - data/*.yaml
+    generates:
+      - "{{.OUT}}"
+    cmds:
+      - typst compile --ignore-system-fonts {{.SRC}} {{.OUT}}
+
+  mediacarta:
+    desc: Build media carta and the Letter spread print file (try margins with MX=8mm MT=5mm MB=5mm)
+    vars:
+      MX: '{{.MX | default "8mm"}}'
+      MT: '{{.MT | default "5mm"}}'
+      MB: '{{.MB | default "5mm"}}'
+      INPUTS: --input paper=us-statement --input mx={{.MX}} --input mt={{.MT}} --input mb={{.MB}}
+    cmds:
+      - typst compile --ignore-system-fonts {{.INPUTS}} {{.SRC}} Español-mediacarta.pdf
+      - >-
+        typst compile --ignore-system-fonts
+        --input src=Español-mediacarta.pdf
+        --input pages=$(typst eval {{.INPUTS}} --in {{.SRC}} 'query(<pagecount>).first().value')
+        impose.typ Español-carta-2up.pdf
+
+  watch:
+    desc: Recompile on every change
+    cmds:
+      - typst watch --ignore-system-fonts {{.SRC}} {{.OUT}}
+
+  clean:
+    desc: Remove build output
+    cmds:
+      - rm -f {{.OUT}}

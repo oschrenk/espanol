@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: tener
+gloss: to have
+tipo: irregular
+uso:
+  - ["possession", "Tengo un carro.", "I have a car."]
+  - ["age", "Tengo 30 años.", "I'm 30."]
+  - ["obligation", "Tengo que trabajar.", "I have to work."]
+  - ["body", "Tengo hambre.", "I'm hungry."]
+  - ["feelings", "Tengo miedo.", "I'm afraid."]
+  - ["wish", "Tengo ganas de salir.", "I feel like going out."]
+gerundio: teniendo
+participio: tenido
+forms:
+  presente: ["ten[g]o", "t[ie]nes", "t[ie]ne", "tenemos", "tenéis", "t[ie]nen"]
+  indefinido: ["[tuv]e", "[tuv]iste", "[tuv]o", "[tuv]imos", "[tuv]isteis", "[tuv]ieron"]
+  imperfecto: ["tenía", "tenías", "tenía", "teníamos", "teníais", "tenían"]
+  futuro: ["[tendr]é", "[tendr]ás", "[tendr]á", "[tendr]emos", "[tendr]éis", "[tendr]án"]
+  condicional: ["[tendr]ía", "[tendr]ías", "[tendr]ía", "[tendr]íamos", "[tendr]íais", "[tendr]ían"]
+  imperativo: [null, "[ten]", "ten[g]a", "ten[g]amos", "tened", "ten[g]an"]
+  imperativo-negativo: [null, "no ten[g]as", "no ten[g]a", "no ten[g]amos", "no ten[g]áis", "no ten[g]an"]
+  subjuntivo: ["ten[g]a", "ten[g]as", "ten[g]a", "ten[g]amos", "ten[g]áis", "ten[g]an"]
+  subjuntivo-imperfecto: ["[tuv]iera", "[tuv]ieras", "[tuv]iera", "[tuv]iéramos", "[tuv]ierais", "[tuv]ieran"]
+  perfecto: ["he tenido", "has tenido", "ha tenido", "hemos tenido", "habéis tenido", "han tenido"]
+  pluscuamperfecto: ["había tenido", "habías tenido", "había tenido", "habíamos tenido", "habíais tenido", "habían tenido"]
+expresiones:
+  - ["tener que + inf.", "to have to"]
+  - ["tener ganas de", "to feel like"]
+  - ["tener … años", "to be … years old"]
+  - ["tener hambre / sed", "to be hungry / thirsty"]
+  - ["tener frío / calor", "to be cold / hot"]
+  - ["tener miedo (de)", "to be afraid (of)"]
+  - ["tener razón", "to be right"]
+  - ["tener prisa", "to be in a hurry"]
+  - ["tener cuidado", "to be careful"]
+vos:
+  presente: tenés
+  imperativo: tené
+examples:
+  presente: "*Tengo* dos hermanos."
+  indefinido: "Ayer *tuve* un examen."
+  imperfecto: "De niño *tenía* un perro."
+  futuro: "Mañana *tendré* más tiempo."
+  condicional: "Con más dinero *tendría* un carro."
+  imperativo: "¡*Ten* cuidado!"
+  subjuntivo: "¡Ojalá *tengas* suerte!"
+  subjuntivo-imperfecto: "Si *tuviera* tiempo, viajaría."
+  perfecto: "¿Alguna vez *has tenido* un perro?"
+  pluscuamperfecto: "Nunca *había tenido* un perro antes."
+  gerundio: "*Estoy teniendo* problemas con el carro."
+  participio: "*He tenido* suerte."
+translations:
+  presente: I have two brothers (or siblings).
+  indefinido: Yesterday I had an exam.
+  imperfecto: As a child I had a dog.
+  futuro: Tomorrow I will have more time.
+  condicional: With more money I would have a car.
+  imperativo: Be careful!
+  subjuntivo: I hope you're lucky!
+  subjuntivo-imperfecto: If I had time, I would travel.
+  perfecto: Have you ever had a dog?
+  pluscuamperfecto: I had never had a dog before.
+  gerundio: I'm having problems with the car.
+  participio: I've been lucky.

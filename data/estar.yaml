@@ -1,0 +1,61 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: estar
+gloss: "to be: how or where something is"
+tipo: irregular
+uso:
+  - ["location", "Está en Antigua.", "It's in Antigua."]
+  - ["mood", "Estoy cansado.", "I'm tired."]
+  - ["result", "La puerta está abierta.", "The door is open."]
+  - ["in progress", "Estoy comiendo.", "I'm eating."]
+  - ["right now", "La sopa está rica.", "The soup tastes good."]
+  - ["position", "Está sentado.", "He is sitting."]
+gerundio: estando
+participio: estado
+forms:
+  presente: ["est[oy]", "est[á]s", "est[á]", "estamos", "estáis", "est[á]n"]
+  indefinido: ["[estuv]e", "[estuv]iste", "[estuv]o", "[estuv]imos", "[estuv]isteis", "[estuv]ieron"]
+  imperfecto: ["estaba", "estabas", "estaba", "estábamos", "estabais", "estaban"]
+  futuro: ["estaré", "estarás", "estará", "estaremos", "estaréis", "estarán"]
+  condicional: ["estaría", "estarías", "estaría", "estaríamos", "estaríais", "estarían"]
+  imperativo: [null, "est[á]", "est[é]", "estemos", "estad", "est[é]n"]
+  imperativo-negativo: [null, "no est[é]s", "no est[é]", "no estemos", "no estéis", "no est[é]n"]
+  subjuntivo: ["est[é]", "est[é]s", "est[é]", "estemos", "estéis", "est[é]n"]
+  subjuntivo-imperfecto: ["[estuv]iera", "[estuv]ieras", "[estuv]iera", "[estuv]iéramos", "[estuv]ierais", "[estuv]ieran"]
+  perfecto: ["he estado", "has estado", "ha estado", "hemos estado", "habéis estado", "han estado"]
+  pluscuamperfecto: ["había estado", "habías estado", "había estado", "habíamos estado", "habíais estado", "habían estado"]
+expresiones:
+  - ["estar + gerundio", "to be …-ing"]
+  - ["estar de acuerdo", "to agree"]
+  - ["estar de vacaciones", "to be on vacation"]
+  - ["estar bien / mal", "to be well / unwell"]
+  - ["estar listo", "to be ready"]
+  - ["estar a punto de", "to be about to"]
+  - ["estar harto de", "to be fed up with"]
+  - ["estar de moda", "to be in fashion"]
+  - ["¿cómo estás?", "how are you?"]
+examples:
+  presente: "*Estoy* cansado."
+  indefinido: "Ayer *estuve* en Antigua."
+  imperfecto: "La casa *estaba* vacía."
+  futuro: "Mañana *estaré* en casa."
+  condicional: "*Estaría* bien salir."
+  imperativo: "¡*Esté* tranquilo!"
+  subjuntivo: "Ojalá *estés* bien."
+  subjuntivo-imperfecto: "Si *estuviera* aquí, te ayudaría."
+  perfecto: "¿*Has estado* en México?"
+  pluscuamperfecto: "Nunca *había estado* en el mar."
+  gerundio: "*Estando* aquí, me siento bien."
+  participio: "Ya *he estado* aquí antes."
+translations:
+  presente: I'm tired.
+  indefinido: Yesterday I was in Antigua.
+  imperfecto: The house was empty.
+  futuro: Tomorrow I'll be at home.
+  condicional: It would be nice to go out.
+  imperativo: Stay calm! (usted)
+  subjuntivo: I hope you are well.
+  subjuntivo-imperfecto: If she were here, she would help you.
+  perfecto: Have you been to Mexico?
+  pluscuamperfecto: I had never been to the sea.
+  gerundio: Being here, I feel good.
+  participio: I've been here before.

@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: seguir
+gloss: to follow, continue
+tipo: con cambio de raíz
+uso:
+  - ["follow", "Mi perro me sigue.", "My dog follows me."]
+  - ["still", "¿Sigues en Xela?", "Are you still in Xela?"]
+  - ["seguir + ger.", "Sigo estudiando.", "I'm still studying."]
+  - ["directions", "Siga derecho.", "Keep going straight."]
+  - ["social media", "Te sigo en redes.", "I follow you online."]
+  - ["rules", "Sigue las reglas.", "Follow the rules."]
+gerundio: "s[i]guiendo"
+participio: seguido
+forms:
+  presente: ["s[ig]o", "s[i]gues", "s[i]gue", "seguimos", "seguís", "s[i]guen"]
+  indefinido: ["seguí", "seguiste", "s[i]guió", "seguimos", "seguisteis", "s[i]guieron"]
+  imperfecto: ["seguía", "seguías", "seguía", "seguíamos", "seguíais", "seguían"]
+  futuro: ["seguiré", "seguirás", "seguirá", "seguiremos", "seguiréis", "seguirán"]
+  condicional: ["seguiría", "seguirías", "seguiría", "seguiríamos", "seguiríais", "seguirían"]
+  imperativo: [null, "s[i]gue", "s[ig]a", "s[ig]amos", "seguid", "s[ig]an"]
+  imperativo-negativo: [null, "no s[ig]as", "no s[ig]a", "no s[ig]amos", "no s[ig]áis", "no s[ig]an"]
+  subjuntivo: ["s[ig]a", "s[ig]as", "s[ig]a", "s[ig]amos", "s[ig]áis", "s[ig]an"]
+  subjuntivo-imperfecto: ["s[i]guiera", "s[i]guieras", "s[i]guiera", "s[i]guiéramos", "s[i]guierais", "s[i]guieran"]
+  perfecto: ["he seguido", "has seguido", "ha seguido", "hemos seguido", "habéis seguido", "han seguido"]
+  pluscuamperfecto: ["había seguido", "habías seguido", "había seguido", "habíamos seguido", "habíais seguido", "habían seguido"]
+expresiones:
+  - ["seguir + gerundio", "to keep …-ing"]
+  - ["seguir derecho", "to go straight on"]
+  - ["seguir adelante", "to carry on"]
+  - ["seguir igual", "to be the same as ever"]
+  - ["seguir en pie", "to still be on (a plan)"]
+  - ["seguir la corriente", "to go along with"]
+  - ["seguir los pasos de", "to follow in the footsteps of"]
+  - ["¿Cómo sigue?", "How is he doing? (after illness)"]
+  - ["enseguida", "right away"]
+vos:
+  presente: seguís
+  imperativo: seguí
+examples:
+  presente: "¿*Sigues* en el trabajo?"
+  indefinido: "*Seguí* tu consejo y funcionó."
+  imperfecto: "*Seguía* lloviendo cuando salimos."
+  futuro: "Mañana *seguiremos* con la clase."
+  condicional: "*Seguiría*, pero estoy cansado."
+  imperativo: "*Sigue* derecho dos cuadras."
+  subjuntivo: "Quiero que *sigas* estudiando."
+  subjuntivo-imperfecto: "Si *siguiera* el mapa, no me perdería."
+  perfecto: "¿Alguna vez *has seguido* una dieta?"
+  pluscuamperfecto: "Nunca *había seguido* una receta así."
+  gerundio: "*Estoy siguiendo* un curso en línea."
+  participio: "*He seguido* los consejos de mi mamá."
+translations:
+  presente: Are you still at work?
+  indefinido: I took your advice and it worked.
+  imperfecto: It was still raining when we left.
+  futuro: Tomorrow we'll continue with the class.
+  condicional: I'd keep going, but I'm tired.
+  imperativo: Go straight for two blocks.
+  subjuntivo: I want you to keep studying.
+  subjuntivo-imperfecto: If I followed the map, I wouldn't get lost.
+  perfecto: Have you ever been on a diet?
+  pluscuamperfecto: I had never followed a recipe like that.
+  gerundio: I'm taking an online course.
+  participio: I've followed my mom's advice.

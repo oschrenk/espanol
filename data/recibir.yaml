@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: recibir
+gloss: to receive, to get
+tipo: regular
+uso:
+  - ["get", "Recibí tu mensaje.", "I got your message."]
+  - ["welcome", "Nos recibieron bien.", "They welcomed us."]
+  - ["salary", "Recibo mi sueldo.", "I get my salary."]
+  - ["guests", "Recibimos visitas.", "We have guests."]
+  - ["delivery", "Recibí el paquete.", "The package came."]
+  - ["signal", "No recibo señal.", "I have no signal."]
+gerundio: recibiendo
+participio: recibido
+forms:
+  presente: ["recibo", "recibes", "recibe", "recibimos", "recibís", "reciben"]
+  indefinido: ["recibí", "recibiste", "recibió", "recibimos", "recibisteis", "recibieron"]
+  imperfecto: ["recibía", "recibías", "recibía", "recibíamos", "recibíais", "recibían"]
+  futuro: ["recibiré", "recibirás", "recibirá", "recibiremos", "recibiréis", "recibirán"]
+  condicional: ["recibiría", "recibirías", "recibiría", "recibiríamos", "recibiríais", "recibirían"]
+  imperativo: [null, "recibe", "reciba", "recibamos", "recibid", "reciban"]
+  imperativo-negativo: [null, "no recibas", "no reciba", "no recibamos", "no recibáis", "no reciban"]
+  subjuntivo: ["reciba", "recibas", "reciba", "recibamos", "recibáis", "reciban"]
+  subjuntivo-imperfecto: ["recibiera", "recibieras", "recibiera", "recibiéramos", "recibierais", "recibieran"]
+  perfecto: ["he recibido", "has recibido", "ha recibido", "hemos recibido", "habéis recibido", "han recibido"]
+  pluscuamperfecto: ["había recibido", "habías recibido", "había recibido", "habíamos recibido", "habíais recibido", "habían recibido"]
+expresiones:
+  - ["recibir un mensaje", "to get a message"]
+  - ["recibir una llamada", "to get a call"]
+  - ["recibir un regalo", "to get a gift"]
+  - ["recibir noticias", "to hear news"]
+  - ["recibir visitas", "to have guests"]
+  - ["recibir con cariño", "to welcome warmly"]
+  - ["recibir el sueldo", "to get paid"]
+  - ["recibir el Año Nuevo", "to see in the New Year"]
+  - ["acuse de recibo", "acknowledgment of receipt"]
+vos:
+  presente: recibís
+  imperativo: recibí
+examples:
+  presente: "*Recibo* muchos mensajes en el celular."
+  indefinido: "Ayer *recibí* un paquete de Xela."
+  imperfecto: "Antes *recibía* cartas de mi abuela."
+  futuro: "*Recibirás* el sueldo el viernes."
+  condicional: "¿*Recibirías* a mi primo una semana?"
+  imperativo: "*Recibe* el paquete, por favor."
+  subjuntivo: "Ojalá que *recibas* buenas noticias."
+  subjuntivo-imperfecto: "Si *recibiera* más, compraría un carro."
+  perfecto: "Nunca *he recibido* una multa."
+  pluscuamperfecto: "Nunca *había recibido* tantas flores."
+  gerundio: "*Estamos recibiendo* visitas."
+  participio: "Ya *he recibido* tu mensaje."
+translations:
+  presente: I get lots of messages on my phone.
+  indefinido: Yesterday I got a package from Xela.
+  imperfecto: I used to get letters from my grandma.
+  futuro: You'll get your salary on Friday.
+  condicional: Would you host my cousin for a week?
+  imperativo: Please take the package in.
+  subjuntivo: I hope you get good news.
+  subjuntivo-imperfecto: If I earned more, I'd buy a car.
+  perfecto: I've never gotten a ticket.
+  pluscuamperfecto: I had never gotten so many flowers.
+  gerundio: We're having guests.
+  participio: I've already gotten your message.

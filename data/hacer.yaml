@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: hacer
+gloss: to do, to make
+tipo: irregular
+uso:
+  - ["do", "¿Qué haces?", "What are you doing?"]
+  - ["make", "Hago la cena.", "I'm making dinner."]
+  - ["weather", "Hace calor.", "It's hot."]
+  - ["ago", "Hace dos años.", "Two years ago."]
+  - ["cause", "Me hace reír.", "It makes me laugh."]
+  - ["become", "Se hizo tarde.", "It got late."]
+gerundio: haciendo
+participio: "[hech]o"
+forms:
+  presente: ["ha[g]o", "haces", "hace", "hacemos", "hacéis", "hacen"]
+  indefinido: ["[hic]e", "[hic]iste", "[hiz]o", "[hic]imos", "[hic]isteis", "[hic]ieron"]
+  imperfecto: ["hacía", "hacías", "hacía", "hacíamos", "hacíais", "hacían"]
+  futuro: ["[har]é", "[har]ás", "[har]á", "[har]emos", "[har]éis", "[har]án"]
+  condicional: ["[har]ía", "[har]ías", "[har]ía", "[har]íamos", "[har]íais", "[har]ían"]
+  imperativo: [null, "[haz]", "ha[g]a", "ha[g]amos", "haced", "ha[g]an"]
+  imperativo-negativo: [null, "no ha[g]as", "no ha[g]a", "no ha[g]amos", "no ha[g]áis", "no ha[g]an"]
+  subjuntivo: ["ha[g]a", "ha[g]as", "ha[g]a", "ha[g]amos", "ha[g]áis", "ha[g]an"]
+  subjuntivo-imperfecto: ["[hic]iera", "[hic]ieras", "[hic]iera", "[hic]iéramos", "[hic]ierais", "[hic]ieran"]
+  perfecto: ["he [hech]o", "has [hech]o", "ha [hech]o", "hemos [hech]o", "habéis [hech]o", "han [hech]o"]
+  pluscuamperfecto: ["había [hech]o", "habías [hech]o", "había [hech]o", "habíamos [hech]o", "habíais [hech]o", "habían [hech]o"]
+expresiones:
+  - ["hace frío / calor", "it's cold / hot"]
+  - ["hace sol / viento", "it's sunny / windy"]
+  - ["hace dos años", "two years ago"]
+  - ["hacer las compras", "to do the shopping"]
+  - ["hacer una pregunta", "to ask a question"]
+  - ["hacer falta", "to be needed"]
+  - ["hacer caso (a)", "to pay attention (to)"]
+  - ["hacerse", "to become"]
+  - ["hacer cola", "to stand in line"]
+vos:
+  presente: hacés
+  imperativo: hacé
+examples:
+  presente: "¿Qué *haces* hoy?"
+  indefinido: "Ayer *hice* la tarea."
+  imperfecto: "*Hacía* mucho calor."
+  futuro: "Mañana lo *haré*."
+  condicional: "¿Qué *harías* tú?"
+  imperativo: "¡*Haz* la tarea!"
+  subjuntivo: "Espero que *haga* buen tiempo."
+  subjuntivo-imperfecto: "Si *hiciera* sol, iríamos a la playa."
+  perfecto: "¿Ya *has hecho* la tarea?"
+  pluscuamperfecto: "Nunca lo *había hecho* antes."
+  gerundio: "¿Qué *estás haciendo*?"
+  participio: "Ya *he hecho* la cama."
+translations:
+  presente: What are you doing today?
+  indefinido: Yesterday I did the homework.
+  imperfecto: It was very hot.
+  futuro: I'll do it tomorrow.
+  condicional: What would you do?
+  imperativo: Do the homework!
+  subjuntivo: I hope the weather is good.
+  subjuntivo-imperfecto: If it were sunny, we would go to the beach.
+  perfecto: Have you done the homework yet?
+  pluscuamperfecto: I had never done it before.
+  gerundio: What are you doing?
+  participio: I have already made the bed.

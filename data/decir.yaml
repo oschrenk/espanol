@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: decir
+gloss: to say, to tell
+tipo: irregular
+uso:
+  - ["say", "¿Qué dices?", "What are you saying?"]
+  - ["tell", "Dime la verdad.", "Tell me the truth."]
+  - ["report", "Dice que viene.", "He says he's coming."]
+  - ["request", "Le dije que esperara.", "I told him to wait."]
+  - ["mean", "¿Qué quiere decir?", "What does it mean?"]
+  - ["they say", "Se dice que sí.", "They say so."]
+gerundio: "d[i]ciendo"
+participio: "[dich]o"
+forms:
+  presente: ["d[ig]o", "d[i]ces", "d[i]ce", "decimos", "decís", "d[i]cen"]
+  indefinido: ["d[ij]e", "d[ij]iste", "d[ij]o", "d[ij]imos", "d[ij]isteis", "d[ij]eron"]
+  imperfecto: ["decía", "decías", "decía", "decíamos", "decíais", "decían"]
+  futuro: ["[dir]é", "[dir]ás", "[dir]á", "[dir]emos", "[dir]éis", "[dir]án"]
+  condicional: ["[dir]ía", "[dir]ías", "[dir]ía", "[dir]íamos", "[dir]íais", "[dir]ían"]
+  imperativo: [null, "[di]", "d[ig]a", "d[ig]amos", "decid", "d[ig]an"]
+  imperativo-negativo: [null, "no d[ig]as", "no d[ig]a", "no d[ig]amos", "no d[ig]áis", "no d[ig]an"]
+  subjuntivo: ["d[ig]a", "d[ig]as", "d[ig]a", "d[ig]amos", "d[ig]áis", "d[ig]an"]
+  subjuntivo-imperfecto: ["d[ij]era", "d[ij]eras", "d[ij]era", "d[ij]éramos", "d[ij]erais", "d[ij]eran"]
+  perfecto: ["he [dich]o", "has [dich]o", "ha [dich]o", "hemos [dich]o", "habéis [dich]o", "han [dich]o"]
+  pluscuamperfecto: ["había [dich]o", "habías [dich]o", "había [dich]o", "habíamos [dich]o", "habíais [dich]o", "habían [dich]o"]
+expresiones:
+  - ["es decir", "that is to say"]
+  - ["querer decir", "to mean"]
+  - ["¿Diga? / ¿Mande?", "hello? / pardon?"]
+  - ["¿Cómo se dice …?", "how do you say …?"]
+  - ["decir que sí / no", "to say yes / no"]
+  - ["se dice que", "they say that"]
+  - ["ni qué decir", "needless to say"]
+  - ["por así decirlo", "so to speak"]
+  - ["dicho y hecho", "no sooner said than done"]
+vos:
+  presente: decís
+  imperativo: decí
+examples:
+  presente: "Siempre *digo* la verdad."
+  indefinido: "Ayer me *dijo* que no venía."
+  imperfecto: "Mi abuela siempre *decía* eso."
+  futuro: "Mañana te lo *diré*."
+  condicional: "¿Qué *dirías* tú?"
+  imperativo: "¡*Dime* la verdad!"
+  subjuntivo: "Quiero que me *digas* la verdad."
+  subjuntivo-imperfecto: "Si me lo *dijeras*, te ayudaría."
+  perfecto: "¿Alguna vez le *has dicho* que no?"
+  pluscuamperfecto: "Nadie me *había dicho* nada."
+  gerundio: "¿Qué *estás diciendo*?"
+  participio: "Ya te lo *he dicho*."
+translations:
+  presente: I always tell the truth.
+  indefinido: Yesterday he told me he wasn't coming.
+  imperfecto: My grandmother always used to say that.
+  futuro: I'll tell you tomorrow.
+  condicional: What would you say?
+  imperativo: Tell me the truth!
+  subjuntivo: I want you to tell me the truth.
+  subjuntivo-imperfecto: If you told me, I would help you.
+  perfecto: Have you ever told him no?
+  pluscuamperfecto: Nobody had told me anything.
+  gerundio: What are you saying?
+  participio: I've already told you.

@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: pagar
+gloss: to pay
+tipo: con cambio ortográfico
+uso:
+  - ["pay", "Pago con tarjeta.", "I pay by card."]
+  - ["pay for", "Pagué el almuerzo.", "I paid for lunch."]
+  - ["pay off", "Pagó la deuda.", "He paid off the debt."]
+  - ["treat", "Yo pago hoy.", "It's on me today."]
+  - ["pay back", "Ya te pagué.", "I paid you back."]
+  - ["pay for (bad)", "Lo vas a pagar.", "You'll pay for it."]
+gerundio: pagando
+participio: pagado
+forms:
+  presente: ["pago", "pagas", "paga", "pagamos", "pagáis", "pagan"]
+  indefinido: ["pag[u]é", "pagaste", "pagó", "pagamos", "pagasteis", "pagaron"]
+  imperfecto: ["pagaba", "pagabas", "pagaba", "pagábamos", "pagabais", "pagaban"]
+  futuro: ["pagaré", "pagarás", "pagará", "pagaremos", "pagaréis", "pagarán"]
+  condicional: ["pagaría", "pagarías", "pagaría", "pagaríamos", "pagaríais", "pagarían"]
+  imperativo: [null, "paga", "pag[u]e", "pag[u]emos", "pagad", "pag[u]en"]
+  imperativo-negativo: [null, "no pag[u]es", "no pag[u]e", "no pag[u]emos", "no pag[u]éis", "no pag[u]en"]
+  subjuntivo: ["pag[u]e", "pag[u]es", "pag[u]e", "pag[u]emos", "pag[u]éis", "pag[u]en"]
+  subjuntivo-imperfecto: ["pagara", "pagaras", "pagara", "pagáramos", "pagarais", "pagaran"]
+  perfecto: ["he pagado", "has pagado", "ha pagado", "hemos pagado", "habéis pagado", "han pagado"]
+  pluscuamperfecto: ["había pagado", "habías pagado", "había pagado", "habíamos pagado", "habíais pagado", "habían pagado"]
+expresiones:
+  - ["pagar en efectivo", "to pay in cash"]
+  - ["pagar con tarjeta", "to pay by card"]
+  - ["pagar la cuenta", "to pay the bill"]
+  - ["pagar a plazos", "to pay in instalments"]
+  - ["pagar la luz", "to pay the power bill"]
+  - ["pagar a medias", "to split the cost"]
+  - ["pagar el pato", "to take the blame"]
+  - ["pagarla caro", "to pay dearly for it"]
+  - ["¿cuánto le pago?", "how much do I owe you?"]
+vos:
+  presente: pagás
+  imperativo: pagá
+examples:
+  presente: "Aquí se *paga* en quetzales."
+  indefinido: "Ayer *pagué* Q300 por la llanta."
+  imperfecto: "Antes *pagaba* la renta en efectivo."
+  futuro: "*Pagaremos* la cuenta a medias."
+  condicional: "Yo no *pagaría* tanto por un celular."
+  imperativo: "*Paga* el parqueo antes de salir."
+  subjuntivo: "Es mejor que *pagues* con tarjeta."
+  subjuntivo-imperfecto: "Si *pagaras* a tiempo, no habría multa."
+  perfecto: "Nunca *he pagado* una multa."
+  pluscuamperfecto: "Ya *había pagado* cuando llegaste."
+  gerundio: "*Estoy pagando* el carro a plazos."
+  participio: "El trabajo está bien *pagado*."
+translations:
+  presente: Here you pay in quetzales.
+  indefinido: Yesterday I paid Q300 for the tire.
+  imperfecto: I used to pay the rent in cash.
+  futuro: We'll split the bill.
+  condicional: I wouldn't pay that much for a phone.
+  imperativo: Pay for parking before you leave.
+  subjuntivo: It's better if you pay by card.
+  subjuntivo-imperfecto: If you paid on time, there'd be no fine.
+  perfecto: I have never paid a fine.
+  pluscuamperfecto: I had already paid when you arrived.
+  gerundio: I'm paying off the car in instalments.
+  participio: The job is well paid.

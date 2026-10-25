@@ -1,0 +1,6 @@
+.direnv/
+.task/
+*.aux
+*.log
+*.out
+*.pdf

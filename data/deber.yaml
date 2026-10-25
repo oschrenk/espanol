@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: deber
+gloss: must, should, to owe
+tipo: regular
+uso:
+  - ["obligation", "Debes descansar.", "You must rest."]
+  - ["advice", "Deberías dormir.", "You should sleep."]
+  - ["regret", "Debí estudiar.", "I should've studied."]
+  - ["owe", "Te debo Q50.", "I owe you Q50."]
+  - ["probability", "Debe de estar allí.", "He must be there."]
+  - ["be due to", "Se debe a la lluvia.", "Due to the rain."]
+gerundio: debiendo
+participio: debido
+forms:
+  presente: ["debo", "debes", "debe", "debemos", "debéis", "deben"]
+  indefinido: ["debí", "debiste", "debió", "debimos", "debisteis", "debieron"]
+  imperfecto: ["debía", "debías", "debía", "debíamos", "debíais", "debían"]
+  futuro: ["deberé", "deberás", "deberá", "deberemos", "deberéis", "deberán"]
+  condicional: ["debería", "deberías", "debería", "deberíamos", "deberíais", "deberían"]
+  imperativo: [null, "debe", "deba", "debamos", "debed", "deban"]
+  imperativo-negativo: [null, "no debas", "no deba", "no debamos", "no debáis", "no deban"]
+  subjuntivo: ["deba", "debas", "deba", "debamos", "debáis", "deban"]
+  subjuntivo-imperfecto: ["debiera", "debieras", "debiera", "debiéramos", "debierais", "debieran"]
+  perfecto: ["he debido", "has debido", "ha debido", "hemos debido", "habéis debido", "han debido"]
+  pluscuamperfecto: ["había debido", "habías debido", "había debido", "habíamos debido", "habíais debido", "habían debido"]
+expresiones:
+  - ["deber + inf.", "must, should"]
+  - ["deber de + inf.", "must (probably)"]
+  - ["debería …", "I / you should …"]
+  - ["deberse a", "to be due to"]
+  - ["deber dinero", "to owe money"]
+  - ["deber un favor", "to owe a favor"]
+  - ["¿cuánto le debo?", "how much do I owe you?"]
+  - ["como debe ser", "as it should be"]
+  - ["cumplir con su deber", "to do one's duty"]
+vos:
+  presente: debés
+  imperativo: debé
+examples:
+  presente: "*Debes* tomar más agua."
+  indefinido: "*Debí* llamarte antes."
+  imperfecto: "Antes *debía* trabajar los sábados."
+  futuro: "*Deberás* llevar tu pasaporte."
+  condicional: "*Deberías* descansar un poco."
+  imperativo: "*Deba* solo lo que pueda pagar."
+  subjuntivo: "No es justo que *debas* pagar todo."
+  subjuntivo-imperfecto: "Si *debiera* dinero, lo pagaría pronto."
+  perfecto: "Nunca le *he debido* dinero a nadie."
+  pluscuamperfecto: "Nunca *había debido* tanto dinero."
+  gerundio: "Sigo *debiendo* la renta de este mes."
+  participio: "El retraso fue *debido* a la lluvia."
+translations:
+  presente: You should drink more water.
+  indefinido: I should have called you earlier.
+  imperfecto: I used to have to work on Saturdays.
+  futuro: You will have to bring your passport.
+  condicional: You should rest a little.
+  imperativo: Only owe what you can pay back.
+  subjuntivo: It's unfair that you have to pay it all.
+  subjuntivo-imperfecto: If I owed money, I'd pay it back soon.
+  perfecto: I've never owed anyone money.
+  pluscuamperfecto: I had never owed so much money.
+  gerundio: I still owe this month's rent.
+  participio: The delay was due to the rain.

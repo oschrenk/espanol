@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: quedar
+gloss: to stay, to remain
+tipo: regular
+uso:
+  - ["stay", "Me quedo en casa.", "I'm staying home."]
+  - ["left over", "Quedan dos tortillas.", "Two tortillas left."]
+  - ["location", "El banco queda cerca.", "The bank is nearby."]
+  - ["fit", "Me queda grande.", "It's too big for me."]
+  - ["agree on", "Quedamos en vernos.", "We agreed to meet."]
+  - ["keep", "Me quedo con este.", "I'll take this one."]
+gerundio: quedando
+participio: quedado
+forms:
+  presente: ["quedo", "quedas", "queda", "quedamos", "quedáis", "quedan"]
+  indefinido: ["quedé", "quedaste", "quedó", "quedamos", "quedasteis", "quedaron"]
+  imperfecto: ["quedaba", "quedabas", "quedaba", "quedábamos", "quedabais", "quedaban"]
+  futuro: ["quedaré", "quedarás", "quedará", "quedaremos", "quedaréis", "quedarán"]
+  condicional: ["quedaría", "quedarías", "quedaría", "quedaríamos", "quedaríais", "quedarían"]
+  imperativo: [null, "queda", "quede", "quedemos", "quedad", "queden"]
+  imperativo-negativo: [null, "no quedes", "no quede", "no quedemos", "no quedéis", "no queden"]
+  subjuntivo: ["quede", "quedes", "quede", "quedemos", "quedéis", "queden"]
+  subjuntivo-imperfecto: ["quedara", "quedaras", "quedara", "quedáramos", "quedarais", "quedaran"]
+  perfecto: ["he quedado", "has quedado", "ha quedado", "hemos quedado", "habéis quedado", "han quedado"]
+  pluscuamperfecto: ["había quedado", "habías quedado", "había quedado", "habíamos quedado", "habíais quedado", "habían quedado"]
+expresiones:
+  - ["quedarse en casa", "to stay home"]
+  - ["quedar en + inf.", "to agree to"]
+  - ["quedar bien / mal", "to make a good / bad impression"]
+  - ["quedarse con", "to keep"]
+  - ["quedarse dormido/a", "to fall asleep, to oversleep"]
+  - ["quedar cerca / lejos", "to be near / far"]
+  - ["me queda grande / chico", "it's too big / small for me"]
+  - ["quedarse callado/a", "to keep quiet"]
+  - ["no queda otra", "there's no other choice"]
+vos:
+  presente: quedás
+  imperativo: quedá
+examples:
+  presente: "Mi casa *queda* cerca del mercado."
+  indefinido: "Anoche me *quedé* en casa."
+  imperfecto: "De niño me *quedaba* con mi abuela."
+  futuro: "Me *quedaré* una semana en Antigua."
+  condicional: "Ese color te *quedaría* bien."
+  imperativo: "¡*Quédate* aquí!"
+  subjuntivo: "Espero que te *quedes* a cenar."
+  subjuntivo-imperfecto: "Si *quedara* tiempo, lo terminaría."
+  perfecto: "¿Alguna vez te *has quedado* en Antigua?"
+  pluscuamperfecto: "Ya me *había quedado* sin batería."
+  gerundio: "Me *estoy quedando* sin dinero."
+  participio: "Nunca me *he quedado* dormido en clase."
+translations:
+  presente: My house is near the market.
+  indefinido: Last night I stayed home.
+  imperfecto: As a child I stayed with my grandma.
+  futuro: I'll stay a week in Antigua.
+  condicional: That color would look good on you.
+  imperativo: Stay here!
+  subjuntivo: I hope you stay for dinner.
+  subjuntivo-imperfecto: If there were time left, I'd finish it.
+  perfecto: Have you ever stayed in Antigua?
+  pluscuamperfecto: My battery had already run out.
+  gerundio: I'm running out of money.
+  participio: I've never fallen asleep in class.

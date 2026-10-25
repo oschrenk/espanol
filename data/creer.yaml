@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: creer
+gloss: to believe, to think
+tipo: con cambio ortográfico
+uso:
+  - ["believe in", "Creo en Dios.", "I believe in God."]
+  - ["think", "Creo que sí.", "I think so."]
+  - ["trust", "Te creo.", "I believe you."]
+  - ["doubt", "No creo que venga.", "I don't think he's coming."]
+  - ["think oneself", "Se cree muy listo.", "He thinks he's very smart."]
+  - ["surprise", "¡No lo puedo creer!", "I can't believe it!"]
+gerundio: "cre[y]endo"
+participio: creído
+forms:
+  presente: ["creo", "crees", "cree", "creemos", "creéis", "creen"]
+  indefinido: ["creí", "creíste", "cre[y]ó", "creímos", "creísteis", "cre[y]eron"]
+  imperfecto: ["creía", "creías", "creía", "creíamos", "creíais", "creían"]
+  futuro: ["creeré", "creerás", "creerá", "creeremos", "creeréis", "creerán"]
+  condicional: ["creería", "creerías", "creería", "creeríamos", "creeríais", "creerían"]
+  imperativo: [null, "cree", "crea", "creamos", "creed", "crean"]
+  imperativo-negativo: [null, "no creas", "no crea", "no creamos", "no creáis", "no crean"]
+  subjuntivo: ["crea", "creas", "crea", "creamos", "creáis", "crean"]
+  subjuntivo-imperfecto: ["cre[y]era", "cre[y]eras", "cre[y]era", "cre[y]éramos", "cre[y]erais", "cre[y]eran"]
+  perfecto: ["he creído", "has creído", "ha creído", "hemos creído", "habéis creído", "han creído"]
+  pluscuamperfecto: ["había creído", "habías creído", "había creído", "habíamos creído", "habíais creído", "habían creído"]
+expresiones:
+  - ["creer que", "to think that"]
+  - ["creer en", "to believe in"]
+  - ["creo que sí / no", "I think so / I don't think so"]
+  - ["¡No lo puedo creer!", "I can't believe it!"]
+  - ["creerse", "to think you're (something)"]
+  - ["¿Tú crees?", "Do you think so?"]
+  - ["ya lo creo", "of course"]
+  - ["no creas que …", "don't think that …"]
+  - ["hacer creer", "to make (someone) believe"]
+vos:
+  presente: creés
+  imperativo: creé
+examples:
+  presente: "*Creo* que va a llover."
+  indefinido: "No le *creí* nada."
+  imperfecto: "De niño *creía* en Santa Claus."
+  futuro: "Nadie te *creerá*."
+  condicional: "¿Quién lo *creería*?"
+  imperativo: "*Créeme*, es verdad."
+  subjuntivo: "Dudo que me *crean*."
+  subjuntivo-imperfecto: "Si me *creyeras*, no preguntarías."
+  perfecto: "Nunca *he creído* en fantasmas."
+  pluscuamperfecto: "Yo *había creído* que era fácil."
+  gerundio: "*Sigo creyendo* que es buena idea."
+  participio: "Nunca le *he creído* a un político."
+translations:
+  presente: I think it's going to rain.
+  indefinido: I didn't believe a word he said.
+  imperfecto: As a child I believed in Santa Claus.
+  futuro: Nobody will believe you.
+  condicional: Who would believe it?
+  imperativo: Believe me, it's true.
+  subjuntivo: I doubt they'll believe me.
+  subjuntivo-imperfecto: If you believed me, you wouldn't ask.
+  perfecto: I've never believed in ghosts.
+  pluscuamperfecto: I had thought it was easy.
+  gerundio: I still think it's a good idea.
+  participio: I've never believed a politician.

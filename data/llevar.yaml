@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: llevar
+gloss: to carry, take, wear
+tipo: regular
+uso:
+  - ["carry", "Llevo el celular.", "I have my phone on me."]
+  - ["take someone", "Te llevo a casa.", "I'll drive you home."]
+  - ["wear", "Lleva una chumpa.", "She's wearing a jacket."]
+  - ["time spent", "Llevo un año aquí.", "I've been here a year."]
+  - ["llevar + ger.", "Llevo horas esperando.", "I've waited for hours."]
+  - ["get along", "Me llevo bien con él.", "I get on well with him."]
+gerundio: llevando
+participio: llevado
+forms:
+  presente: ["llevo", "llevas", "lleva", "llevamos", "lleváis", "llevan"]
+  indefinido: ["llevé", "llevaste", "llevó", "llevamos", "llevasteis", "llevaron"]
+  imperfecto: ["llevaba", "llevabas", "llevaba", "llevábamos", "llevabais", "llevaban"]
+  futuro: ["llevaré", "llevarás", "llevará", "llevaremos", "llevaréis", "llevarán"]
+  condicional: ["llevaría", "llevarías", "llevaría", "llevaríamos", "llevaríais", "llevarían"]
+  imperativo: [null, "lleva", "lleve", "llevemos", "llevad", "lleven"]
+  imperativo-negativo: [null, "no lleves", "no lleve", "no llevemos", "no llevéis", "no lleven"]
+  subjuntivo: ["lleve", "lleves", "lleve", "llevemos", "llevéis", "lleven"]
+  subjuntivo-imperfecto: ["llevara", "llevaras", "llevara", "lleváramos", "llevarais", "llevaran"]
+  perfecto: ["he llevado", "has llevado", "ha llevado", "hemos llevado", "habéis llevado", "han llevado"]
+  pluscuamperfecto: ["había llevado", "habías llevado", "había llevado", "habíamos llevado", "habíais llevado", "habían llevado"]
+expresiones:
+  - ["llevarse bien / mal", "to get along well / badly"]
+  - ["llevar + gerundio", "to have been …-ing"]
+  - ["llevar tiempo", "to take time"]
+  - ["llevar a cabo", "to carry out"]
+  - ["para llevar", "to go (food)"]
+  - ["llevar puesto", "to have on (clothes)"]
+  - ["llevarse un susto", "to get a fright"]
+  - ["llevar la contraria", "to contradict"]
+  - ["llevar la cuenta", "to keep count"]
+vos:
+  presente: llevás
+  imperativo: llevá
+examples:
+  presente: "Siempre *llevo* el celular en la bolsa."
+  indefinido: "Ayer *llevé* el carro al taller."
+  imperfecto: "De niño *llevaba* uniforme a la escuela."
+  futuro: "Mañana te *llevaré* al aeropuerto."
+  condicional: "Yo no *llevaría* tanto dinero."
+  imperativo: "*Lleva* una chumpa, hace frío."
+  subjuntivo: "Quiero que *lleves* la computadora."
+  subjuntivo-imperfecto: "Si *llevara* paraguas, no me mojaría."
+  perfecto: "¿Ya *has llevado* a tus papás a Tikal?"
+  pluscuamperfecto: "Nunca *había llevado* tanta ropa."
+  gerundio: "*Estoy llevando* las cajas al carro."
+  participio: "Ya *he llevado* las cajas al carro."
+translations:
+  presente: I always carry my phone in my bag.
+  indefinido: Yesterday I took the car to the shop.
+  imperfecto: As a child I wore a uniform to school.
+  futuro: Tomorrow I'll take you to the airport.
+  condicional: I wouldn't carry so much money.
+  imperativo: Take a jacket, it's cold.
+  subjuntivo: I want you to bring the computer.
+  subjuntivo-imperfecto: If I had an umbrella, I wouldn't get wet.
+  perfecto: Have you taken your parents to Tikal yet?
+  pluscuamperfecto: I had never packed so many clothes.
+  gerundio: I'm carrying the boxes to the car.
+  participio: I've already taken the boxes to the car.

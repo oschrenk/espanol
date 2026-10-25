@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: salir
+gloss: to leave, to go out
+tipo: irregular
+uso:
+  - ["leave", "Salgo a las siete.", "I leave at seven."]
+  - ["salir de", "Salgo de la oficina.", "I'm leaving the office."]
+  - ["go out", "Salimos el viernes.", "We go out on Friday."]
+  - ["date", "Sale con Ana.", "He's going out with Ana."]
+  - ["turn out", "Todo salió bien.", "Everything turned out well."]
+  - ["appear", "Sale en la foto.", "She's in the photo."]
+gerundio: saliendo
+participio: salido
+forms:
+  presente: ["sal[g]o", "sales", "sale", "salimos", "salís", "salen"]
+  indefinido: ["salí", "saliste", "salió", "salimos", "salisteis", "salieron"]
+  imperfecto: ["salía", "salías", "salía", "salíamos", "salíais", "salían"]
+  futuro: ["[saldr]é", "[saldr]ás", "[saldr]á", "[saldr]emos", "[saldr]éis", "[saldr]án"]
+  condicional: ["[saldr]ía", "[saldr]ías", "[saldr]ía", "[saldr]íamos", "[saldr]íais", "[saldr]ían"]
+  imperativo: [null, "[sal]", "sal[g]a", "sal[g]amos", "salid", "sal[g]an"]
+  imperativo-negativo: [null, "no sal[g]as", "no sal[g]a", "no sal[g]amos", "no sal[g]áis", "no sal[g]an"]
+  subjuntivo: ["sal[g]a", "sal[g]as", "sal[g]a", "sal[g]amos", "sal[g]áis", "sal[g]an"]
+  subjuntivo-imperfecto: ["saliera", "salieras", "saliera", "saliéramos", "salierais", "salieran"]
+  perfecto: ["he salido", "has salido", "ha salido", "hemos salido", "habéis salido", "han salido"]
+  pluscuamperfecto: ["había salido", "habías salido", "había salido", "habíamos salido", "habíais salido", "habían salido"]
+expresiones:
+  - ["salir de", "to leave (a place)"]
+  - ["salir con", "to go out with, to date"]
+  - ["salir bien / mal", "to turn out well / badly"]
+  - ["salir a comer", "to go out to eat"]
+  - ["salir de compras", "to go shopping"]
+  - ["salir de viaje", "to go on a trip"]
+  - ["salir adelante", "to get ahead"]
+  - ["salir caro", "to turn out expensive"]
+  - ["salirse con la suya", "to get one's way"]
+vos:
+  presente: salís
+  imperativo: salí
+examples:
+  presente: "*Salgo* del trabajo a las cinco."
+  indefinido: "Anoche *salimos* a cenar."
+  imperfecto: "De joven *salía* cada sábado."
+  futuro: "El bus *saldrá* a las seis."
+  condicional: "Yo no *saldría* con esta lluvia."
+  imperativo: "¡*Sal* de ahí!"
+  subjuntivo: "Espero que todo *salga* bien."
+  subjuntivo-imperfecto: "Si *saliera* antes, llegaría a tiempo."
+  perfecto: "¿Alguna vez *has salido* del país?"
+  pluscuamperfecto: "Nunca *había salido* sola de noche."
+  gerundio: "*Estoy saliendo* de la casa."
+  participio: "Ya *ha salido* el sol."
+translations:
+  presente: I leave work at five.
+  indefinido: Last night we went out for dinner.
+  imperfecto: When I was young I went out every Saturday.
+  futuro: The bus will leave at six.
+  condicional: I wouldn't go out in this rain.
+  imperativo: Get out of there!
+  subjuntivo: I hope everything turns out well.
+  subjuntivo-imperfecto: If I left earlier, I'd arrive on time.
+  perfecto: Have you ever left the country?
+  pluscuamperfecto: She had never gone out alone at night.
+  gerundio: I'm leaving the house.
+  participio: The sun has already come out.

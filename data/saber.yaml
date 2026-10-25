@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: saber
+gloss: to know
+tipo: irregular
+uso:
+  - ["knowledge", "Sé la respuesta.", "I know the answer."]
+  - ["ability", "Sé nadar.", "I know how to swim."]
+  - ["vs. conocer", "Sé dónde vive.", "I know where he lives."]
+  - ["taste", "Sabe a chocolate.", "It tastes like chocolate."]
+  - ["find out", "Lo supe ayer.", "I found out yesterday."]
+  - ["hear from", "¿Sabes algo de Ana?", "Any news from Ana?"]
+gerundio: sabiendo
+participio: sabido
+forms:
+  presente: ["[sé]", "sabes", "sabe", "sabemos", "sabéis", "saben"]
+  indefinido: ["[sup]e", "[sup]iste", "[sup]o", "[sup]imos", "[sup]isteis", "[sup]ieron"]
+  imperfecto: ["sabía", "sabías", "sabía", "sabíamos", "sabíais", "sabían"]
+  futuro: ["[sabr]é", "[sabr]ás", "[sabr]á", "[sabr]emos", "[sabr]éis", "[sabr]án"]
+  condicional: ["[sabr]ía", "[sabr]ías", "[sabr]ía", "[sabr]íamos", "[sabr]íais", "[sabr]ían"]
+  imperativo: [null, "sabe", "[sep]a", "[sep]amos", "sabed", "[sep]an"]
+  imperativo-negativo: [null, "no [sep]as", "no [sep]a", "no [sep]amos", "no [sep]áis", "no [sep]an"]
+  subjuntivo: ["[sep]a", "[sep]as", "[sep]a", "[sep]amos", "[sep]áis", "[sep]an"]
+  subjuntivo-imperfecto: ["[sup]iera", "[sup]ieras", "[sup]iera", "[sup]iéramos", "[sup]ierais", "[sup]ieran"]
+  perfecto: ["he sabido", "has sabido", "ha sabido", "hemos sabido", "habéis sabido", "han sabido"]
+  pluscuamperfecto: ["había sabido", "habías sabido", "había sabido", "habíamos sabido", "habíais sabido", "habían sabido"]
+expresiones:
+  - ["saber + inf.", "to know how to"]
+  - ["saber a", "to taste like"]
+  - ["saber bien / mal", "to taste good / bad"]
+  - ["¿sabes qué?", "you know what?"]
+  - ["que yo sepa", "as far as I know"]
+  - ["¡quién sabe!", "who knows!"]
+  - ["saber de memoria", "to know by heart"]
+  - ["saber de alguien", "to hear from someone"]
+  - ["hacer saber", "to let someone know"]
+vos:
+  presente: sabés
+  imperativo: sabé
+examples:
+  presente: "No *sé* dónde está el banco."
+  indefinido: "Ayer *supe* que Ana está embarazada."
+  imperfecto: "No *sabía* que estabas aquí."
+  futuro: "Mañana *sabremos* el resultado."
+  condicional: "¿*Sabrías* llegar sin mapa?"
+  imperativo: "*Sepan* que aquí tienen su casa."
+  subjuntivo: "No creo que *sepa* la respuesta."
+  subjuntivo-imperfecto: "Si *supiera* cocinar, no comería afuera."
+  perfecto: "Nunca *he sabido* nadar bien."
+  pluscuamperfecto: "Ya *había sabido* la noticia por Ana."
+  gerundio: "*Sabiendo* la verdad, no dijo nada."
+  participio: "Es *sabido* que aquí el café es bueno."
+translations:
+  presente: I don't know where the bank is.
+  indefinido: Yesterday I found out Ana is pregnant.
+  imperfecto: I didn't know you were here.
+  futuro: Tomorrow we will know the result.
+  condicional: Could you find the way without a map?
+  imperativo: Know that you have a home here.
+  subjuntivo: I don't think he knows the answer.
+  subjuntivo-imperfecto: If I knew how to cook, I wouldn't eat out.
+  perfecto: I've never known how to swim well.
+  pluscuamperfecto: I had already heard the news from Ana.
+  gerundio: Knowing the truth, he said nothing.
+  participio: It's well known the coffee here is good.

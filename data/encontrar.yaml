@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: encontrar
+gloss: to find
+tipo: con cambio de raíz
+uso:
+  - ["find", "No encuentro nada.", "I can't find anything."]
+  - ["come across", "Encontré un billete.", "I found a bill."]
+  - ["meet by chance", "Me encontré a Ana.", "I ran into Ana."]
+  - ["meet up", "Nos encontramos aquí.", "Let's meet here."]
+  - ["be located", "Se encuentra en la zona 1.", "It's in Zone 1."]
+  - ["opinion", "Lo encuentro caro.", "I find it expensive."]
+gerundio: encontrando
+participio: encontrado
+forms:
+  presente: ["enc[ue]ntro", "enc[ue]ntras", "enc[ue]ntra", "encontramos", "encontráis", "enc[ue]ntran"]
+  indefinido: ["encontré", "encontraste", "encontró", "encontramos", "encontrasteis", "encontraron"]
+  imperfecto: ["encontraba", "encontrabas", "encontraba", "encontrábamos", "encontrabais", "encontraban"]
+  futuro: ["encontraré", "encontrarás", "encontrará", "encontraremos", "encontraréis", "encontrarán"]
+  condicional: ["encontraría", "encontrarías", "encontraría", "encontraríamos", "encontraríais", "encontrarían"]
+  imperativo: [null, "enc[ue]ntra", "enc[ue]ntre", "encontremos", "encontrad", "enc[ue]ntren"]
+  imperativo-negativo: [null, "no enc[ue]ntres", "no enc[ue]ntre", "no encontremos", "no encontréis", "no enc[ue]ntren"]
+  subjuntivo: ["enc[ue]ntre", "enc[ue]ntres", "enc[ue]ntre", "encontremos", "encontréis", "enc[ue]ntren"]
+  subjuntivo-imperfecto: ["encontrara", "encontraras", "encontrara", "encontráramos", "encontrarais", "encontraran"]
+  perfecto: ["he encontrado", "has encontrado", "ha encontrado", "hemos encontrado", "habéis encontrado", "han encontrado"]
+  pluscuamperfecto: ["había encontrado", "habías encontrado", "había encontrado", "habíamos encontrado", "habíais encontrado", "habían encontrado"]
+expresiones:
+  - ["encontrarse con", "to meet (up) with"]
+  - ["encontrarse bien / mal", "to feel well / unwell"]
+  - ["encontrar trabajo", "to find a job"]
+  - ["encontrar casa", "to find a place to live"]
+  - ["encontrar la manera", "to find a way"]
+  - ["encontrar tiempo", "to find time"]
+  - ["no encontrar palabras", "to be lost for words"]
+  - ["¿Dónde se encuentra?", "Where is it?"]
+  - ["encontrarse de frente", "to come face to face"]
+vos:
+  presente: encontrás
+  imperativo: encontrá
+examples:
+  presente: "No *encuentro* mi celular."
+  indefinido: "Ayer *encontré* un restaurante bueno."
+  imperfecto: "De niño *encontraba* piedras en el río."
+  futuro: "Seguro que *encontrarás* trabajo pronto."
+  condicional: "Sin el mapa no *encontraría* la casa."
+  imperativo: "*Encuentra* las diez diferencias."
+  subjuntivo: "Ojalá *encuentres* un buen apartamento."
+  subjuntivo-imperfecto: "Si *encontrara* el pasaporte, viajaría."
+  perfecto: "¿Alguna vez *has encontrado* dinero?"
+  pluscuamperfecto: "Nunca *había encontrado* un lugar así."
+  gerundio: "*Estoy encontrando* muchos errores."
+  participio: "Ya *he encontrado* las llaves."
+translations:
+  presente: I can't find my phone.
+  indefinido: Yesterday I found a good restaurant.
+  imperfecto: As a child I'd find stones in the river.
+  futuro: I'm sure you'll find a job soon.
+  condicional: Without the map I wouldn't find the house.
+  imperativo: Find the ten differences.
+  subjuntivo: I hope you find a good apartment.
+  subjuntivo-imperfecto: If I found the passport, I'd travel.
+  perfecto: Have you ever found money?
+  pluscuamperfecto: I had never found a place like that.
+  gerundio: I'm finding a lot of mistakes.
+  participio: I've already found the keys.

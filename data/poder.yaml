@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: poder
+gloss: can, to be able to
+tipo: irregular
+uso:
+  - ["ability", "Puedo nadar.", "I can swim."]
+  - ["permission", "¿Puedo pasar?", "May I come in?"]
+  - ["requests", "¿Me puede ayudar?", "Can you help me?"]
+  - ["possibility", "Puede llover.", "It might rain."]
+  - ["maybe", "Puede ser.", "Maybe."]
+  - ["can't stand", "No puedo con él.", "I can't stand him."]
+gerundio: "p[u]diendo"
+participio: podido
+forms:
+  presente: ["p[ue]do", "p[ue]des", "p[ue]de", "podemos", "podéis", "p[ue]den"]
+  indefinido: ["[pud]e", "[pud]iste", "[pud]o", "[pud]imos", "[pud]isteis", "[pud]ieron"]
+  imperfecto: ["podía", "podías", "podía", "podíamos", "podíais", "podían"]
+  futuro: ["[podr]é", "[podr]ás", "[podr]á", "[podr]emos", "[podr]éis", "[podr]án"]
+  condicional: ["[podr]ía", "[podr]ías", "[podr]ía", "[podr]íamos", "[podr]íais", "[podr]ían"]
+  imperativo: [null, "p[ue]de", "p[ue]da", "podamos", "poded", "p[ue]dan"]
+  imperativo-negativo: [null, "no p[ue]das", "no p[ue]da", "no podamos", "no podáis", "no p[ue]dan"]
+  subjuntivo: ["p[ue]da", "p[ue]das", "p[ue]da", "podamos", "podáis", "p[ue]dan"]
+  subjuntivo-imperfecto: ["[pud]iera", "[pud]ieras", "[pud]iera", "[pud]iéramos", "[pud]ierais", "[pud]ieran"]
+  perfecto: ["he podido", "has podido", "ha podido", "hemos podido", "habéis podido", "han podido"]
+  pluscuamperfecto: ["había podido", "habías podido", "había podido", "habíamos podido", "habíais podido", "habían podido"]
+expresiones:
+  - ["poder + inf.", "can, to be able to"]
+  - ["¿Se puede?", "may I come in?"]
+  - ["puede ser", "maybe"]
+  - ["puede que + subj.", "it may be that"]
+  - ["no poder más", "to be exhausted"]
+  - ["no poder con", "to not be able to handle"]
+  - ["no se puede", "it's not allowed"]
+  - ["¿En qué le puedo servir?", "how can I help you?"]
+  - ["¿Me podría …?", "could you …?"]
+vos:
+  presente: podés
+  imperativo: podé
+examples:
+  presente: "¿Me *puedes* ayudar?"
+  indefinido: "Ayer no *pude* dormir."
+  imperfecto: "De niño no *podía* comer chile."
+  futuro: "Mañana *podré* ir al mercado."
+  condicional: "¿*Podría* repetirlo, por favor?"
+  imperativo: null
+  subjuntivo: "Espero que *puedas* venir."
+  subjuntivo-imperfecto: "Si *pudiera*, viajaría a Tikal."
+  perfecto: "Nunca *he podido* bailar salsa."
+  pluscuamperfecto: "No *había podido* llamarte."
+  gerundio: "No *pudiendo* dormir, leí un libro."
+  participio: "Aún no *he podido* arreglar el celular."
+translations:
+  presente: Can you help me?
+  indefinido: Yesterday I couldn't sleep.
+  imperfecto: As a child I couldn't eat chili.
+  futuro: Tomorrow I'll be able to go to the market.
+  condicional: Could you repeat that, please?
+  imperativo: null
+  subjuntivo: I hope you can come.
+  subjuntivo-imperfecto: If I could, I would travel to Tikal.
+  perfecto: I've never been able to dance salsa.
+  pluscuamperfecto: I hadn't been able to call you.
+  gerundio: Unable to sleep, I read a book.
+  participio: I still haven't been able to fix my phone.

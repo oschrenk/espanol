@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: poner
+gloss: to put
+tipo: irregular
+uso:
+  - ["put", "Pon las llaves aquí.", "Put the keys here."]
+  - ["turn on", "Pon la tele.", "Turn on the TV."]
+  - ["set", "Pongo la mesa.", "I set the table."]
+  - ["put on", "Me pongo la chumpa.", "I put on my jacket."]
+  - ["become", "Se puso nervioso.", "He got nervous."]
+  - ["start to", "Se puso a llorar.", "She started to cry."]
+gerundio: poniendo
+participio: "[puest]o"
+forms:
+  presente: ["pon[g]o", "pones", "pone", "ponemos", "ponéis", "ponen"]
+  indefinido: ["[pus]e", "[pus]iste", "[pus]o", "[pus]imos", "[pus]isteis", "[pus]ieron"]
+  imperfecto: ["ponía", "ponías", "ponía", "poníamos", "poníais", "ponían"]
+  futuro: ["[pondr]é", "[pondr]ás", "[pondr]á", "[pondr]emos", "[pondr]éis", "[pondr]án"]
+  condicional: ["[pondr]ía", "[pondr]ías", "[pondr]ía", "[pondr]íamos", "[pondr]íais", "[pondr]ían"]
+  imperativo: [null, "[pon]", "pon[g]a", "pon[g]amos", "poned", "pon[g]an"]
+  imperativo-negativo: [null, "no pon[g]as", "no pon[g]a", "no pon[g]amos", "no pon[g]áis", "no pon[g]an"]
+  subjuntivo: ["pon[g]a", "pon[g]as", "pon[g]a", "pon[g]amos", "pon[g]áis", "pon[g]an"]
+  subjuntivo-imperfecto: ["[pus]iera", "[pus]ieras", "[pus]iera", "[pus]iéramos", "[pus]ierais", "[pus]ieran"]
+  perfecto: ["he [puest]o", "has [puest]o", "ha [puest]o", "hemos [puest]o", "habéis [puest]o", "han [puest]o"]
+  pluscuamperfecto: ["había [puest]o", "habías [puest]o", "había [puest]o", "habíamos [puest]o", "habíais [puest]o", "habían [puest]o"]
+expresiones:
+  - ["ponerse a + inf.", "to start to"]
+  - ["ponerse de acuerdo", "to agree"]
+  - ["poner atención", "to pay attention"]
+  - ["ponerse las pilas", "to get your act together"]
+  - ["poner la mesa", "to set the table"]
+  - ["poner la tele / la radio", "to turn on the TV / radio"]
+  - ["ponerse nervioso/a", "to get nervous"]
+  - ["ponerse rojo/a", "to blush"]
+  - ["poner pretextos", "to make excuses"]
+vos:
+  presente: ponés
+  imperativo: poné
+examples:
+  presente: "Siempre *pongo* las llaves aquí."
+  indefinido: "Ayer *puse* el celular a cargar."
+  imperfecto: "De niño *ponía* la mesa todos los días."
+  futuro: "Mañana me *pondré* la camisa nueva."
+  condicional: "Yo no le *pondría* tanta azúcar."
+  imperativo: "¡*Pon* atención!"
+  subjuntivo: "Quiero que *pongas* la mesa."
+  subjuntivo-imperfecto: "Si *pusiera* atención, aprendería más."
+  perfecto: "Nunca *he puesto* sal en el café."
+  pluscuamperfecto: "Ya *había puesto* la mesa a las seis."
+  gerundio: "*Estoy poniendo* la mesa."
+  participio: "Ya *he puesto* la ropa en la lavadora."
+translations:
+  presente: I always put the keys here.
+  indefinido: Yesterday I put my phone on to charge.
+  imperfecto: As a child I set the table every day.
+  futuro: Tomorrow I'll put on the new shirt.
+  condicional: I wouldn't put so much sugar in it.
+  imperativo: Pay attention!
+  subjuntivo: I want you to set the table.
+  subjuntivo-imperfecto: If I paid attention, I'd learn more.
+  perfecto: I've never put salt in my coffee.
+  pluscuamperfecto: I had already set the table by six.
+  gerundio: I'm setting the table.
+  participio: I've already put the clothes in the washer.

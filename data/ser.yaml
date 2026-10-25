@@ -1,0 +1,63 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: ser
+gloss: "to be: what or who something is"
+tipo: irregular
+uso:
+  - ["identity", "Soy Ana.", "I'm Ana."]
+  - ["origin", "Soy de Alemania.", "I'm from Germany."]
+  - ["job", "Es profesora.", "She's a teacher."]
+  - ["time", "Son las tres.", "It's three o'clock."]
+  - ["character", "Es simpático.", "He's nice."]
+  - ["relationship", "Es mi hermano.", "He's my brother."]
+gerundio: siendo
+participio: sido
+forms:
+  presente: ["[soy]", "[eres]", "[es]", "[somos]", "[sois]", "[son]"]
+  indefinido: ["[fu]i", "[fu]iste", "[fu]e", "[fu]imos", "[fu]isteis", "[fu]eron"]
+  imperfecto: ["[er]a", "[er]as", "[er]a", "[ér]amos", "[er]ais", "[er]an"]
+  futuro: ["seré", "serás", "será", "seremos", "seréis", "serán"]
+  condicional: ["sería", "serías", "sería", "seríamos", "seríais", "serían"]
+  imperativo: [null, "[sé]", "[se]a", "[se]amos", "sed", "[se]an"]
+  imperativo-negativo: [null, "no [se]as", "no [se]a", "no [se]amos", "no [se]áis", "no [se]an"]
+  subjuntivo: ["[se]a", "[se]as", "[se]a", "[se]amos", "[se]áis", "[se]an"]
+  subjuntivo-imperfecto: ["[fu]era", "[fu]eras", "[fu]era", "[fu]éramos", "[fu]erais", "[fu]eran"]
+  perfecto: ["he sido", "has sido", "ha sido", "hemos sido", "habéis sido", "han sido"]
+  pluscuamperfecto: ["había sido", "habías sido", "había sido", "habíamos sido", "habíais sido", "habían sido"]
+expresiones:
+  - ["ser de", "to be from"]
+  - ["ser + profesión", "to be a (job)"]
+  - ["es la una / son las tres", "it's one / three o'clock"]
+  - ["es que …", "the thing is …"]
+  - ["o sea", "I mean"]
+  - ["es decir", "that is to say"]
+  - ["ser buena gente", "to be a good person"]
+  - ["¿cuánto es?", "how much is it?"]
+  - ["érase una vez", "once upon a time"]
+vos:
+  presente: "[sos]"
+examples:
+  presente: "*Soy* de Alemania."
+  indefinido: "La fiesta *fue* increíble."
+  imperfecto: "De niño *era* muy tímido."
+  futuro: "*Será* un buen año."
+  condicional: "*Sería* mejor esperar."
+  imperativo: "¡*Sé* paciente!"
+  subjuntivo: "Espero que *seas* feliz."
+  subjuntivo-imperfecto: "Si *fuera* rico, viajaría."
+  perfecto: "Nunca *he sido* muy puntual."
+  pluscuamperfecto: "Nunca *había sido* tan fácil."
+  gerundio: "*Estás siendo* muy amable."
+  participio: "*Ha sido* un placer."
+translations:
+  presente: I am from Germany.
+  indefinido: The party was amazing.
+  imperfecto: As a child I was very shy.
+  futuro: It will be a good year.
+  condicional: It would be better to wait.
+  imperativo: Be patient!
+  subjuntivo: I hope you are happy.
+  subjuntivo-imperfecto: If I were rich, I would travel.
+  perfecto: I've never been very punctual.
+  pluscuamperfecto: It had never been so easy.
+  gerundio: You are being very kind.
+  participio: It has been a pleasure.

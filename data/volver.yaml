@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: volver
+gloss: to return, to come back
+tipo: con cambio de raíz
+uso:
+  - ["return", "Vuelvo a las seis.", "I'll be back at six."]
+  - ["do again", "No vuelvo a venir.", "I'm not coming again."]
+  - ["volver de", "Volvió de Xela.", "She came back from Xela."]
+  - ["go home", "Volvemos a casa.", "We're going back home."]
+  - ["become", "Se volvió loco.", "He went crazy."]
+  - ["turn", "Vuelve la página.", "Turn the page."]
+gerundio: volviendo
+participio: "[vuelt]o"
+forms:
+  presente: ["v[ue]lvo", "v[ue]lves", "v[ue]lve", "volvemos", "volvéis", "v[ue]lven"]
+  indefinido: ["volví", "volviste", "volvió", "volvimos", "volvisteis", "volvieron"]
+  imperfecto: ["volvía", "volvías", "volvía", "volvíamos", "volvíais", "volvían"]
+  futuro: ["volveré", "volverás", "volverá", "volveremos", "volveréis", "volverán"]
+  condicional: ["volvería", "volverías", "volvería", "volveríamos", "volveríais", "volverían"]
+  imperativo: [null, "v[ue]lve", "v[ue]lva", "volvamos", "volved", "v[ue]lvan"]
+  imperativo-negativo: [null, "no v[ue]lvas", "no v[ue]lva", "no volvamos", "no volváis", "no v[ue]lvan"]
+  subjuntivo: ["v[ue]lva", "v[ue]lvas", "v[ue]lva", "volvamos", "volváis", "v[ue]lvan"]
+  subjuntivo-imperfecto: ["volviera", "volvieras", "volviera", "volviéramos", "volvierais", "volvieran"]
+  perfecto: ["he [vuelt]o", "has [vuelt]o", "ha [vuelt]o", "hemos [vuelt]o", "habéis [vuelt]o", "han [vuelt]o"]
+  pluscuamperfecto: ["había [vuelt]o", "habías [vuelt]o", "había [vuelt]o", "habíamos [vuelt]o", "habíais [vuelt]o", "habían [vuelt]o"]
+expresiones:
+  - ["volver a + inf.", "to do again"]
+  - ["volver a casa", "to go back home"]
+  - ["volver de", "to come back from"]
+  - ["¡Ya vuelvo!", "I'll be right back!"]
+  - ["volver a empezar", "to start over"]
+  - ["volverse loco", "to go crazy"]
+  - ["volver en sí", "to come to"]
+  - ["volver atrás", "to go back"]
+  - ["volver la cabeza", "to turn one's head"]
+vos:
+  presente: volvés
+  imperativo: volvé
+examples:
+  presente: "*Vuelvo* a casa a las seis."
+  indefinido: "Ayer *volví* tarde del trabajo."
+  imperfecto: "Siempre *volvíamos* en bus."
+  futuro: "*Volveré* el próximo año."
+  condicional: "Yo no *volvería* a ese restaurante."
+  imperativo: "¡*Vuelve* pronto!"
+  subjuntivo: "Quiero que *vuelvas* temprano."
+  subjuntivo-imperfecto: "Si *volviera* a nacer, sería músico."
+  perfecto: "¿Ya *has vuelto* de las vacaciones?"
+  pluscuamperfecto: "Nunca *había vuelto* a mi pueblo."
+  gerundio: "*Estoy volviendo* a casa."
+  participio: "Nunca *he vuelto* a ese lugar."
+translations:
+  presente: I get home at six.
+  indefinido: Yesterday I came back late from work.
+  imperfecto: We always came back by bus.
+  futuro: I'll come back next year.
+  condicional: I wouldn't go back to that restaurant.
+  imperativo: Come back soon!
+  subjuntivo: I want you to come back early.
+  subjuntivo-imperfecto: If I were born again, I'd be a musician.
+  perfecto: Are you back from vacation yet?
+  pluscuamperfecto: I had never gone back to my hometown.
+  gerundio: I'm heading back home.
+  participio: I've never gone back to that place.

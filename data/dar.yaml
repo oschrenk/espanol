@@ -1,0 +1,61 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: dar
+gloss: to give
+tipo: irregular
+uso:
+  - ["give", "Te doy mi número.", "I'll give you my number."]
+  - ["hit", "Me di un golpe.", "I hit myself."]
+  - ["face", "Da a la calle.", "It faces the street."]
+  - ["cause", "Me da miedo.", "It scares me."]
+  - ["realize", "Me di cuenta.", "I realized."]
+  - ["show (film)", "¿Qué dan hoy?", "What's showing today?"]
+gerundio: dando
+participio: dado
+forms:
+  presente: ["do[y]", "das", "da", "damos", "dais", "dan"]
+  indefinido: ["d[i]", "d[i]ste", "d[io]", "d[i]mos", "d[i]steis", "d[ie]ron"]
+  imperfecto: ["daba", "dabas", "daba", "dábamos", "dabais", "daban"]
+  futuro: ["daré", "darás", "dará", "daremos", "daréis", "darán"]
+  condicional: ["daría", "darías", "daría", "daríamos", "daríais", "darían"]
+  imperativo: [null, "da", "d[é]", "demos", "dad", "den"]
+  imperativo-negativo: [null, "no des", "no d[é]", "no demos", "no deis", "no den"]
+  subjuntivo: ["d[é]", "des", "d[é]", "demos", "deis", "den"]
+  subjuntivo-imperfecto: ["d[ie]ra", "d[ie]ras", "d[ie]ra", "d[ié]ramos", "d[ie]rais", "d[ie]ran"]
+  perfecto: ["he dado", "has dado", "ha dado", "hemos dado", "habéis dado", "han dado"]
+  pluscuamperfecto: ["había dado", "habías dado", "había dado", "habíamos dado", "habíais dado", "habían dado"]
+expresiones:
+  - ["darse cuenta (de)", "to realize"]
+  - ["dar las gracias", "to say thank you"]
+  - ["dar una vuelta", "to go for a walk / ride"]
+  - ["dar miedo / risa", "to be scary / funny"]
+  - ["dar igual", "to not matter"]
+  - ["dar un aventón", "to give a ride"]
+  - ["dar a luz", "to give birth"]
+  - ["darle ganas de", "to feel like"]
+  - ["dar clases", "to teach classes"]
+examples:
+  presente: "Te *doy* mi número de celular."
+  indefinido: "Ayer me *dio* un regalo."
+  imperfecto: "Mi papá me *daba* dinero los domingos."
+  futuro: "Mañana te *daré* la respuesta."
+  condicional: "¿Me *darías* un aventón?"
+  imperativo: "¡*Dame* un minuto!"
+  subjuntivo: "Espero que me *des* una buena noticia."
+  subjuntivo-imperfecto: "Si me *dieras* tu número, te llamaría."
+  perfecto: "¿Alguna vez *has dado* clases?"
+  pluscuamperfecto: "Nunca me *había dado* cuenta."
+  gerundio: "*Estoy dando* clases de inglés."
+  participio: "Ya le *he dado* las gracias."
+translations:
+  presente: I'll give you my cell number.
+  indefinido: Yesterday he gave me a present.
+  imperfecto: My dad used to give me money on Sundays.
+  futuro: Tomorrow I'll give you the answer.
+  condicional: Would you give me a ride?
+  imperativo: Give me a minute!
+  subjuntivo: I hope you give me good news.
+  subjuntivo-imperfecto: If you gave me your number, I'd call you.
+  perfecto: Have you ever taught classes?
+  pluscuamperfecto: I had never noticed.
+  gerundio: I'm teaching English classes.
+  participio: I've already thanked him.

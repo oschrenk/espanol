@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: venir
+gloss: to come
+tipo: irregular
+uso:
+  - ["come", "Ven aquí.", "Come here."]
+  - ["arrive", "Viene a las ocho.", "He's coming at eight."]
+  - ["origin", "Vengo de Xela.", "I come from Xela."]
+  - ["next", "La semana que viene.", "Next week."]
+  - ["suit", "Me viene bien el lunes.", "Monday suits me."]
+  - ["venir a + inf.", "Vengo a verte.", "I'm coming to see you."]
+gerundio: "v[i]niendo"
+participio: venido
+forms:
+  presente: ["ven[g]o", "v[ie]nes", "v[ie]ne", "venimos", "venís", "v[ie]nen"]
+  indefinido: ["[vin]e", "[vin]iste", "[vin]o", "[vin]imos", "[vin]isteis", "[vin]ieron"]
+  imperfecto: ["venía", "venías", "venía", "veníamos", "veníais", "venían"]
+  futuro: ["[vendr]é", "[vendr]ás", "[vendr]á", "[vendr]emos", "[vendr]éis", "[vendr]án"]
+  condicional: ["[vendr]ía", "[vendr]ías", "[vendr]ía", "[vendr]íamos", "[vendr]íais", "[vendr]ían"]
+  imperativo: [null, "[ven]", "ven[g]a", "ven[g]amos", "venid", "ven[g]an"]
+  imperativo-negativo: [null, "no ven[g]as", "no ven[g]a", "no ven[g]amos", "no ven[g]áis", "no ven[g]an"]
+  subjuntivo: ["ven[g]a", "ven[g]as", "ven[g]a", "ven[g]amos", "ven[g]áis", "ven[g]an"]
+  subjuntivo-imperfecto: ["[vin]iera", "[vin]ieras", "[vin]iera", "[vin]iéramos", "[vin]ierais", "[vin]ieran"]
+  perfecto: ["he venido", "has venido", "ha venido", "hemos venido", "habéis venido", "han venido"]
+  pluscuamperfecto: ["había venido", "habías venido", "había venido", "habíamos venido", "habíais venido", "habían venido"]
+expresiones:
+  - ["venir de", "to come from"]
+  - ["venir a + inf.", "to come to (do)"]
+  - ["el año que viene", "next year"]
+  - ["venir bien / mal", "to suit / not suit"]
+  - ["¡Ven acá!", "Come here!"]
+  - ["ir y venir", "to come and go"]
+  - ["venirse abajo", "to collapse"]
+  - ["venir al caso", "to be relevant"]
+  - ["¿A qué viene eso?", "What's that got to do with it?"]
+vos:
+  presente: venís
+  imperativo: vení
+examples:
+  presente: "*Vengo* de la oficina."
+  indefinido: "Ayer *vino* mi tía a visitarnos."
+  imperfecto: "De niño *venía* a este parque."
+  futuro: "Mañana *vendrán* mis primos."
+  condicional: "¿*Vendrías* a mi fiesta?"
+  imperativo: "¡*Ven* acá!"
+  subjuntivo: "Espero que *vengas* el sábado."
+  subjuntivo-imperfecto: "Si *vinieras* antes, comeríamos juntos."
+  perfecto: "¿Alguna vez *has venido* a Antigua?"
+  pluscuamperfecto: "Nunca *había venido* a Guatemala antes."
+  gerundio: "Mis amigos *están viniendo* para acá."
+  participio: "Ya *he venido* tres veces."
+translations:
+  presente: I'm coming from the office.
+  indefinido: Yesterday my aunt came to visit us.
+  imperfecto: As a child I used to come to this park.
+  futuro: Tomorrow my cousins will come.
+  condicional: Would you come to my party?
+  imperativo: Come here!
+  subjuntivo: I hope you come on Saturday.
+  subjuntivo-imperfecto: If you came earlier, we'd eat together.
+  perfecto: Have you ever come to Antigua?
+  pluscuamperfecto: I had never come to Guatemala before.
+  gerundio: My friends are on their way here.
+  participio: I've already come three times.

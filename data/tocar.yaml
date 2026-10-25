@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: tocar
+gloss: to touch, to play
+tipo: con cambio ortográfico
+uso:
+  - ["play (music)", "Toca la marimba.", "He plays marimba."]
+  - ["touch", "No toques eso.", "Don't touch that."]
+  - ["be one's turn", "Me toca a mí.", "It's my turn."]
+  - ["knock, ring", "Tocan la puerta.", "Someone's knocking."]
+  - ["have to", "Me toca trabajar.", "I have to work."]
+  - ["win, get", "Le tocó el premio.", "She won the prize."]
+gerundio: tocando
+participio: tocado
+forms:
+  presente: ["toco", "tocas", "toca", "tocamos", "tocáis", "tocan"]
+  indefinido: ["to[qu]é", "tocaste", "tocó", "tocamos", "tocasteis", "tocaron"]
+  imperfecto: ["tocaba", "tocabas", "tocaba", "tocábamos", "tocabais", "tocaban"]
+  futuro: ["tocaré", "tocarás", "tocará", "tocaremos", "tocaréis", "tocarán"]
+  condicional: ["tocaría", "tocarías", "tocaría", "tocaríamos", "tocaríais", "tocarían"]
+  imperativo: [null, "toca", "to[qu]e", "to[qu]emos", "tocad", "to[qu]en"]
+  imperativo-negativo: [null, "no to[qu]es", "no to[qu]e", "no to[qu]emos", "no to[qu]éis", "no to[qu]en"]
+  subjuntivo: ["to[qu]e", "to[qu]es", "to[qu]e", "to[qu]emos", "to[qu]éis", "to[qu]en"]
+  subjuntivo-imperfecto: ["tocara", "tocaras", "tocara", "tocáramos", "tocarais", "tocaran"]
+  perfecto: ["he tocado", "has tocado", "ha tocado", "hemos tocado", "habéis tocado", "han tocado"]
+  pluscuamperfecto: ["había tocado", "habías tocado", "había tocado", "habíamos tocado", "habíais tocado", "habían tocado"]
+expresiones:
+  - ["me toca a mí", "it's my turn"]
+  - ["¿a quién le toca?", "whose turn is it?"]
+  - ["tocar la puerta", "to knock on the door"]
+  - ["tocar el timbre", "to ring the bell"]
+  - ["tocar la bocina", "to honk the horn"]
+  - ["tocar madera", "to knock on wood"]
+  - ["tocar un tema", "to bring up a topic"]
+  - ["tocar fondo", "to hit rock bottom"]
+  - ["por lo que toca a…", "as far as … goes"]
+vos:
+  presente: tocás
+  imperativo: tocá
+examples:
+  presente: "Mi papá *toca* la marimba."
+  indefinido: "Anoche *toqué* guitarra en la fiesta."
+  imperfecto: "De niña *tocaba* el piano."
+  futuro: "La banda *tocará* en Xela el sábado."
+  condicional: "Yo no *tocaría* ese cable."
+  imperativo: "*Toca* el timbre dos veces."
+  subjuntivo: "No quiero que *toques* mi celular."
+  subjuntivo-imperfecto: "Si *tocaras* más, mejorarías."
+  perfecto: "¿Alguna vez *has tocado* la marimba?"
+  pluscuamperfecto: "Ya me *había tocado* pagar."
+  gerundio: "Alguien *está tocando* la puerta."
+  participio: "Nunca *he tocado* un violín."
+translations:
+  presente: My dad plays the marimba.
+  indefinido: Last night I played guitar at the party.
+  imperfecto: As a girl she played the piano.
+  futuro: The band will play in Xela on Saturday.
+  condicional: I wouldn't touch that cable.
+  imperativo: Ring the bell twice.
+  subjuntivo: I don't want you to touch my phone.
+  subjuntivo-imperfecto: If you played more, you'd get better.
+  perfecto: Have you ever played the marimba?
+  pluscuamperfecto: It had already been my turn to pay.
+  gerundio: Someone is knocking on the door.
+  participio: I have never played a violin.

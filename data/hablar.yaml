@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: hablar
+gloss: to speak, to talk
+tipo: regular
+uso:
+  - ["language", "Hablo español.", "I speak Spanish."]
+  - ["talk", "Hablamos mañana.", "We'll talk tomorrow."]
+  - ["call", "Te hablo más tarde.", "I'll call you later."]
+  - ["topic", "Hablamos de política.", "We talked politics."]
+  - ["each other", "Ya no se hablan.", "They don't talk anymore."]
+  - ["gossip", "Hablan mal de él.", "They speak badly of him."]
+gerundio: hablando
+participio: hablado
+forms:
+  presente: ["hablo", "hablas", "habla", "hablamos", "habláis", "hablan"]
+  indefinido: ["hablé", "hablaste", "habló", "hablamos", "hablasteis", "hablaron"]
+  imperfecto: ["hablaba", "hablabas", "hablaba", "hablábamos", "hablabais", "hablaban"]
+  futuro: ["hablaré", "hablarás", "hablará", "hablaremos", "hablaréis", "hablarán"]
+  condicional: ["hablaría", "hablarías", "hablaría", "hablaríamos", "hablaríais", "hablarían"]
+  imperativo: [null, "habla", "hable", "hablemos", "hablad", "hablen"]
+  imperativo-negativo: [null, "no hables", "no hable", "no hablemos", "no habléis", "no hablen"]
+  subjuntivo: ["hable", "hables", "hable", "hablemos", "habléis", "hablen"]
+  subjuntivo-imperfecto: ["hablara", "hablaras", "hablara", "habláramos", "hablarais", "hablaran"]
+  perfecto: ["he hablado", "has hablado", "ha hablado", "hemos hablado", "habéis hablado", "han hablado"]
+  pluscuamperfecto: ["había hablado", "habías hablado", "había hablado", "habíamos hablado", "habíais hablado", "habían hablado"]
+expresiones:
+  - ["hablar de", "to talk about"]
+  - ["hablar con", "to talk to"]
+  - ["hablar por teléfono", "to talk on the phone"]
+  - ["hablarle a alguien", "to call someone"]
+  - ["¡Ni hablar!", "No way!"]
+  - ["hablar en serio", "to be serious"]
+  - ["hablar mal de", "to speak badly of"]
+  - ["hablar claro", "to speak plainly"]
+  - ["hablando de …", "speaking of …"]
+vos:
+  presente: hablás
+  imperativo: hablá
+examples:
+  presente: "*Hablo* español con mis vecinos."
+  indefinido: "Ayer *hablé* con mi jefe."
+  imperfecto: "De niño *hablaba* mucho."
+  futuro: "Mañana *hablaré* con el doctor."
+  condicional: "Yo *hablaría* con ella primero."
+  imperativo: "*Habla* más despacio, por favor."
+  subjuntivo: "Quiero que *hables* con tu hermano."
+  subjuntivo-imperfecto: "Si *hablara* despacio, le entendería."
+  perfecto: "¿Alguna vez *has hablado* con un famoso?"
+  pluscuamperfecto: "Nunca *había hablado* en público."
+  gerundio: "*Estoy hablando* por teléfono."
+  participio: "Ya *he hablado* con el mecánico."
+translations:
+  presente: I speak Spanish with my neighbors.
+  indefinido: Yesterday I talked to my boss.
+  imperfecto: As a child I talked a lot.
+  futuro: Tomorrow I'll talk to the doctor.
+  condicional: I would talk to her first.
+  imperativo: Speak more slowly, please.
+  subjuntivo: I want you to talk to your brother.
+  subjuntivo-imperfecto: If he spoke slowly, I'd understand him.
+  perfecto: Have you ever talked to a celebrity?
+  pluscuamperfecto: I had never spoken in public.
+  gerundio: I'm talking on the phone.
+  participio: I've already talked to the mechanic.

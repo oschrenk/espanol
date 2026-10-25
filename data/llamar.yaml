@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: llamar
+gloss: to call
+tipo: regular
+uso:
+  - ["name", "Me llamo Ana.", "My name is Ana."]
+  - ["phone", "Te llamo mañana.", "I'll call you tomorrow."]
+  - ["call for", "Llamé al doctor.", "I called the doctor."]
+  - ["door", "Llaman a la puerta.", "Someone's at the door."]
+  - ["naming", "Lo llaman Chepe.", "They call him Chepe."]
+  - ["draw attention", "Me llama la atención.", "It catches my eye."]
+gerundio: llamando
+participio: llamado
+forms:
+  presente: ["llamo", "llamas", "llama", "llamamos", "llamáis", "llaman"]
+  indefinido: ["llamé", "llamaste", "llamó", "llamamos", "llamasteis", "llamaron"]
+  imperfecto: ["llamaba", "llamabas", "llamaba", "llamábamos", "llamabais", "llamaban"]
+  futuro: ["llamaré", "llamarás", "llamará", "llamaremos", "llamaréis", "llamarán"]
+  condicional: ["llamaría", "llamarías", "llamaría", "llamaríamos", "llamaríais", "llamarían"]
+  imperativo: [null, "llama", "llame", "llamemos", "llamad", "llamen"]
+  imperativo-negativo: [null, "no llames", "no llame", "no llamemos", "no llaméis", "no llamen"]
+  subjuntivo: ["llame", "llames", "llame", "llamemos", "llaméis", "llamen"]
+  subjuntivo-imperfecto: ["llamara", "llamaras", "llamara", "llamáramos", "llamarais", "llamaran"]
+  perfecto: ["he llamado", "has llamado", "ha llamado", "hemos llamado", "habéis llamado", "han llamado"]
+  pluscuamperfecto: ["había llamado", "habías llamado", "había llamado", "habíamos llamado", "habíais llamado", "habían llamado"]
+expresiones:
+  - ["llamarse", "to be called"]
+  - ["¿Cómo se llama …?", "What is … called?"]
+  - ["llamar por teléfono", "to phone"]
+  - ["llamar la atención", "to catch the eye; to scold"]
+  - ["llamar a la puerta", "to knock at the door"]
+  - ["llamar al médico", "to call the doctor"]
+  - ["llamar por su nombre", "to call by name"]
+  - ["devolver la llamada", "to call back"]
+  - ["llamada perdida", "missed call"]
+vos:
+  presente: llamás
+  imperativo: llamá
+examples:
+  presente: "Mi hermana *llama* a mi mamá a diario."
+  indefinido: "Ayer te *llamé* tres veces."
+  imperfecto: "De niño me *llamaban* Canche."
+  futuro: "Te *llamaré* cuando llegue."
+  condicional: "Yo *llamaría* al banco primero."
+  imperativo: "*Llama* a un taxi, por favor."
+  subjuntivo: "Dile que me *llame* mañana."
+  subjuntivo-imperfecto: "Si *llamaras* a tu mamá, estaría feliz."
+  perfecto: "Nunca *he llamado* a la policía."
+  pluscuamperfecto: "Ella ya *había llamado* al doctor."
+  gerundio: "*Estoy llamando* al banco."
+  participio: "Ya te *he llamado* dos veces."
+translations:
+  presente: My sister calls my mom every day.
+  indefinido: I called you three times yesterday.
+  imperfecto: As a child they called me Canche.
+  futuro: I'll call you when I arrive.
+  condicional: I would call the bank first.
+  imperativo: Call a taxi, please.
+  subjuntivo: Tell him to call me tomorrow.
+  subjuntivo-imperfecto: If you called your mom, she'd be happy.
+  perfecto: I've never called the police.
+  pluscuamperfecto: She had already called the doctor.
+  gerundio: I'm calling the bank.
+  participio: I've already called you twice.

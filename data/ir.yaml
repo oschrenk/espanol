@@ -1,0 +1,63 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: ir
+gloss: to go
+tipo: irregular
+uso:
+  - ["direction", "Voy a Antigua.", "I'm going to Antigua."]
+  - ["near future", "Voy a comer.", "I'm going to eat."]
+  - ["transport", "Voy en bus.", "I'm going by bus."]
+  - ["leave (irse)", "Me voy.", "I'm leaving."]
+  - ["how it goes", "¿Cómo te va?", "How's it going?"]
+  - ["let's", "¡Vamos!", "Let's go!"]
+gerundio: "[y]endo"
+participio: ido
+forms:
+  presente: ["[voy]", "[vas]", "[va]", "[vamos]", "[vais]", "[van]"]
+  indefinido: ["[fu]i", "[fu]iste", "[fu]e", "[fu]imos", "[fu]isteis", "[fu]eron"]
+  imperfecto: ["[ib]a", "[ib]as", "[ib]a", "[íb]amos", "[ib]ais", "[ib]an"]
+  futuro: ["iré", "irás", "irá", "iremos", "iréis", "irán"]
+  condicional: ["iría", "irías", "iría", "iríamos", "iríais", "irían"]
+  imperativo: [null, "[ve]", "[vay]a", "[vamos]", "id", "[vay]an"]
+  imperativo-negativo: [null, "no [vay]as", "no [vay]a", "no [vay]amos", "no [vay]áis", "no [vay]an"]
+  subjuntivo: ["[vay]a", "[vay]as", "[vay]a", "[vay]amos", "[vay]áis", "[vay]an"]
+  subjuntivo-imperfecto: ["[fu]era", "[fu]eras", "[fu]era", "[fu]éramos", "[fu]erais", "[fu]eran"]
+  perfecto: ["he ido", "has ido", "ha ido", "hemos ido", "habéis ido", "han ido"]
+  pluscuamperfecto: ["había ido", "habías ido", "había ido", "habíamos ido", "habíais ido", "habían ido"]
+expresiones:
+  - ["ir a + inf.", "to be going to"]
+  - ["ir de compras", "to go shopping"]
+  - ["ir de vacaciones", "to go on vacation"]
+  - ["ir a pie", "to go on foot"]
+  - ["ir en bus / carro", "to go by bus / car"]
+  - ["irse", "to leave"]
+  - ["¡vamos!", "let's go! / come on!"]
+  - ["¿cómo te va?", "how's it going?"]
+  - ["ir al grano", "to get to the point"]
+vos:
+  imperativo: andá
+examples:
+  presente: "*Voy* al mercado."
+  indefinido: "El sábado *fui* a Antigua."
+  imperfecto: "Siempre *iba* a la playa."
+  futuro: "*Iré* a Xela en mayo."
+  condicional: "*Iría* contigo, pero no puedo."
+  imperativo: "¡*Ve* despacio!"
+  subjuntivo: "Quiero que *vayas* al médico."
+  subjuntivo-imperfecto: "Si *fuera* contigo, sería más fácil."
+  perfecto: "¿*Has ido* a Tikal?"
+  pluscuamperfecto: "Ya *había ido* al cine."
+  gerundio: "*Estamos yendo* a la playa."
+  participio: "Nunca *he ido* a Europa."
+translations:
+  presente: I'm going to the market.
+  indefinido: On Saturday I went to Antigua.
+  imperfecto: I always used to go to the beach.
+  futuro: I will go to Xela in May.
+  condicional: I would go with you, but I can't.
+  imperativo: Go slowly!
+  subjuntivo: I want you to go to the doctor.
+  subjuntivo-imperfecto: If I went with you, it would be easier.
+  perfecto: Have you been to Tikal?
+  pluscuamperfecto: I had already gone to the cinema.
+  gerundio: We're going to the beach.
+  participio: I have never been to Europe.

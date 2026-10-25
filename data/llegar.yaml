@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: llegar
+gloss: to arrive
+tipo: con cambio ortográfico
+uso:
+  - ["arrive", "Llego a las ocho.", "I arrive at eight."]
+  - ["get to", "¿Cómo llego allí?", "How do I get there?"]
+  - ["amount to", "Todo llega a Q200.", "It all comes to Q200."]
+  - ["become", "Llegó a ser doctora.", "She became a doctor."]
+  - ["come visit", "Llego a tu casa.", "I'll come over."]
+  - ["late / early", "Siempre llega tarde.", "He's always late."]
+gerundio: llegando
+participio: llegado
+forms:
+  presente: ["llego", "llegas", "llega", "llegamos", "llegáis", "llegan"]
+  indefinido: ["lleg[u]é", "llegaste", "llegó", "llegamos", "llegasteis", "llegaron"]
+  imperfecto: ["llegaba", "llegabas", "llegaba", "llegábamos", "llegabais", "llegaban"]
+  futuro: ["llegaré", "llegarás", "llegará", "llegaremos", "llegaréis", "llegarán"]
+  condicional: ["llegaría", "llegarías", "llegaría", "llegaríamos", "llegaríais", "llegarían"]
+  imperativo: [null, "llega", "lleg[u]e", "lleg[u]emos", "llegad", "lleg[u]en"]
+  imperativo-negativo: [null, "no lleg[u]es", "no lleg[u]e", "no lleg[u]emos", "no lleg[u]éis", "no lleg[u]en"]
+  subjuntivo: ["lleg[u]e", "lleg[u]es", "lleg[u]e", "lleg[u]emos", "lleg[u]éis", "lleg[u]en"]
+  subjuntivo-imperfecto: ["llegara", "llegaras", "llegara", "llegáramos", "llegarais", "llegaran"]
+  perfecto: ["he llegado", "has llegado", "ha llegado", "hemos llegado", "habéis llegado", "han llegado"]
+  pluscuamperfecto: ["había llegado", "habías llegado", "había llegado", "habíamos llegado", "habíais llegado", "habían llegado"]
+expresiones:
+  - ["llegar a + inf.", "to manage to, to end up"]
+  - ["llegar a ser", "to become"]
+  - ["llegar tarde / temprano", "to be late / early"]
+  - ["llegar a tiempo", "to arrive on time"]
+  - ["llegar a casa", "to get home"]
+  - ["¡ya llegué!", "I'm home!"]
+  - ["llegar a un acuerdo", "to reach an agreement"]
+  - ["llegar lejos", "to go far"]
+  - ["llegar al corazón", "to touch someone's heart"]
+vos:
+  presente: llegás
+  imperativo: llegá
+examples:
+  presente: "El bus *llega* a las siete."
+  indefinido: "Ayer *llegué* tarde al trabajo."
+  imperfecto: "Siempre *llegaba* temprano a clase."
+  futuro: "*Llegaremos* a Antigua en una hora."
+  condicional: "Sin tráfico *llegaríamos* a tiempo."
+  imperativo: "*Llegue* temprano, por favor."
+  subjuntivo: "Avísame cuando *llegues*."
+  subjuntivo-imperfecto: "Si *llegaras* antes, comeríamos juntos."
+  perfecto: "¿Ya *ha llegado* el paquete?"
+  pluscuamperfecto: "Cuando llamé, ya *había llegado*."
+  gerundio: "*Estamos llegando* al mercado."
+  participio: "Recién *llegado*, no hablaba español."
+translations:
+  presente: The bus arrives at seven.
+  indefinido: Yesterday I got to work late.
+  imperfecto: He always got to class early.
+  futuro: We will get to Antigua in an hour.
+  condicional: Without traffic we'd arrive on time.
+  imperativo: Please come early.
+  subjuntivo: Let me know when you get there.
+  subjuntivo-imperfecto: If you got here earlier, we'd eat together.
+  perfecto: Has the package arrived yet?
+  pluscuamperfecto: When I called, she had already arrived.
+  gerundio: We're almost at the market.
+  participio: Newly arrived, I spoke no Spanish.

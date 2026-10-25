@@ -1,0 +1,61 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: ver
+gloss: to see, to watch
+tipo: irregular
+uso:
+  - ["see", "Veo el volcán.", "I see the volcano."]
+  - ["watch", "Vemos una película.", "We're watching a movie."]
+  - ["meet", "Nos vemos mañana.", "See you tomorrow."]
+  - ["look (verse)", "Te ves bien.", "You look good."]
+  - ["consider", "Ya veremos.", "We'll see."]
+  - ["understand", "Ya veo.", "I see."]
+gerundio: viendo
+participio: "[vist]o"
+forms:
+  presente: ["v[e]o", "ves", "ve", "vemos", "veis", "ven"]
+  indefinido: ["vi", "viste", "vio", "vimos", "visteis", "vieron"]
+  imperfecto: ["v[e]ía", "v[e]ías", "v[e]ía", "v[e]íamos", "v[e]íais", "v[e]ían"]
+  futuro: ["veré", "verás", "verá", "veremos", "veréis", "verán"]
+  condicional: ["vería", "verías", "vería", "veríamos", "veríais", "verían"]
+  imperativo: [null, "ve", "v[e]a", "v[e]amos", "ved", "v[e]an"]
+  imperativo-negativo: [null, "no v[e]as", "no v[e]a", "no v[e]amos", "no v[e]áis", "no v[e]an"]
+  subjuntivo: ["v[e]a", "v[e]as", "v[e]a", "v[e]amos", "v[e]áis", "v[e]an"]
+  subjuntivo-imperfecto: ["viera", "vieras", "viera", "viéramos", "vierais", "vieran"]
+  perfecto: ["he [vist]o", "has [vist]o", "ha [vist]o", "hemos [vist]o", "habéis [vist]o", "han [vist]o"]
+  pluscuamperfecto: ["había [vist]o", "habías [vist]o", "había [vist]o", "habíamos [vist]o", "habíais [vist]o", "habían [vist]o"]
+expresiones:
+  - ["nos vemos", "see you"]
+  - ["a ver", "let's see"]
+  - ["ya veremos", "we'll see"]
+  - ["verse bien / mal", "to look good / bad"]
+  - ["tener que ver con", "to have to do with"]
+  - ["no tener nada que ver", "to have nothing to do with it"]
+  - ["ver la tele", "to watch TV"]
+  - ["ver para creer", "seeing is believing"]
+  - ["por lo visto", "apparently"]
+examples:
+  presente: "Desde aquí *veo* el volcán."
+  indefinido: "Ayer *vi* a tu hermano en el centro."
+  imperfecto: "De niño *veía* caricaturas."
+  futuro: "Mañana *veremos* la película."
+  condicional: "Con lentes *verías* mejor."
+  imperativo: "*Ve* el lado bueno."
+  subjuntivo: "Espero que nos *veamos* pronto."
+  subjuntivo-imperfecto: "Si lo *vieras*, no lo creerías."
+  perfecto: "¿Ya *has visto* el lago de Atitlán?"
+  pluscuamperfecto: "Nunca *había visto* un quetzal."
+  gerundio: "*Estamos viendo* una serie."
+  participio: "Ya *he visto* esa película."
+translations:
+  presente: From here I can see the volcano.
+  indefinido: Yesterday I saw your brother downtown.
+  imperfecto: As a child I used to watch cartoons.
+  futuro: Tomorrow we'll watch the movie.
+  condicional: With glasses you would see better.
+  imperativo: Look on the bright side.
+  subjuntivo: I hope we see each other soon.
+  subjuntivo-imperfecto: If you saw it, you wouldn't believe it.
+  perfecto: Have you seen Lake Atitlán yet?
+  pluscuamperfecto: I had never seen a quetzal.
+  gerundio: We're watching a series.
+  participio: I've already seen that movie.

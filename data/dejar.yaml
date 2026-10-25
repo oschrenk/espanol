@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: dejar
+gloss: to leave, let
+tipo: regular
+uso:
+  - ["leave thing", "Dejé las llaves.", "I left the keys."]
+  - ["leave place", "Dejó su trabajo.", "She quit her job."]
+  - ["allow", "No me dejan salir.", "They don't let me go out."]
+  - ["dejar de + inf", "Dejé de fumar.", "I quit smoking."]
+  - ["drop off", "Te dejo en tu casa.", "I'll drop you home."]
+  - ["let me use", "¿Me dejas tu celular?", "Can I use your phone?"]
+gerundio: dejando
+participio: dejado
+forms:
+  presente: ["dejo", "dejas", "deja", "dejamos", "dejáis", "dejan"]
+  indefinido: ["dejé", "dejaste", "dejó", "dejamos", "dejasteis", "dejaron"]
+  imperfecto: ["dejaba", "dejabas", "dejaba", "dejábamos", "dejabais", "dejaban"]
+  futuro: ["dejaré", "dejarás", "dejará", "dejaremos", "dejaréis", "dejarán"]
+  condicional: ["dejaría", "dejarías", "dejaría", "dejaríamos", "dejaríais", "dejarían"]
+  imperativo: [null, "deja", "deje", "dejemos", "dejad", "dejen"]
+  imperativo-negativo: [null, "no dejes", "no deje", "no dejemos", "no dejéis", "no dejen"]
+  subjuntivo: ["deje", "dejes", "deje", "dejemos", "dejéis", "dejen"]
+  subjuntivo-imperfecto: ["dejara", "dejaras", "dejara", "dejáramos", "dejarais", "dejaran"]
+  perfecto: ["he dejado", "has dejado", "ha dejado", "hemos dejado", "habéis dejado", "han dejado"]
+  pluscuamperfecto: ["había dejado", "habías dejado", "había dejado", "habíamos dejado", "habíais dejado", "habían dejado"]
+expresiones:
+  - ["dejar de + inf.", "to stop doing"]
+  - ["dejar en paz", "to leave alone"]
+  - ["dejar plantado", "to stand up (a date)"]
+  - ["dejar caer", "to drop"]
+  - ["dejar pasar", "to let go by"]
+  - ["dejar un mensaje", "to leave a message"]
+  - ["dejar propina", "to leave a tip"]
+  - ["dejar claro", "to make clear"]
+  - ["dejar mucho que desear", "to leave a lot to be desired"]
+vos:
+  presente: dejás
+  imperativo: dejá
+examples:
+  presente: "Siempre *dejo* el carro en el parqueo."
+  indefinido: "Ayer *dejé* el celular en la oficina."
+  imperfecto: "Mi mamá no me *dejaba* salir de noche."
+  futuro: "Mañana *dejaré* los papeles aquí."
+  condicional: "No *dejaría* la computadora en el carro."
+  imperativo: "*Deja* los zapatos en la entrada."
+  subjuntivo: "Espero que me *dejen* entrar."
+  subjuntivo-imperfecto: "Si *dejaras* de fumar, dormirías mejor."
+  perfecto: "Nunca *he dejado* a mi perro solo."
+  pluscuamperfecto: "El bus ya *había dejado* la terminal."
+  gerundio: "*Estoy dejando* el azúcar poco a poco."
+  participio: "Ya te *he dejado* tres mensajes."
+translations:
+  presente: I always leave the car in the parking lot.
+  indefinido: Yesterday I left my phone at the office.
+  imperfecto: My mom didn't let me go out at night.
+  futuro: Tomorrow I'll leave the papers here.
+  condicional: I wouldn't leave the computer in the car.
+  imperativo: Leave your shoes at the entrance.
+  subjuntivo: I hope they let me in.
+  subjuntivo-imperfecto: If you quit smoking, you'd sleep better.
+  perfecto: I've never left my dog alone.
+  pluscuamperfecto: The bus had already left the station.
+  gerundio: I'm giving up sugar little by little.
+  participio: I've already left you three messages.

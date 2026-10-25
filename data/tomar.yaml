@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: tomar
+gloss: to take, to drink
+tipo: regular
+uso:
+  - ["drink", "Tomo café.", "I drink coffee."]
+  - ["take", "Toma tu celular.", "Take your phone."]
+  - ["transport", "Tomo el bus.", "I take the bus."]
+  - ["photo", "Tomé muchas fotos.", "I took a lot of photos."]
+  - ["decision", "Tomé una decisión.", "I made a decision."]
+  - ["medicine", "Toma la pastilla.", "Take the pill."]
+gerundio: tomando
+participio: tomado
+forms:
+  presente: ["tomo", "tomas", "toma", "tomamos", "tomáis", "toman"]
+  indefinido: ["tomé", "tomaste", "tomó", "tomamos", "tomasteis", "tomaron"]
+  imperfecto: ["tomaba", "tomabas", "tomaba", "tomábamos", "tomabais", "tomaban"]
+  futuro: ["tomaré", "tomarás", "tomará", "tomaremos", "tomaréis", "tomarán"]
+  condicional: ["tomaría", "tomarías", "tomaría", "tomaríamos", "tomaríais", "tomarían"]
+  imperativo: [null, "toma", "tome", "tomemos", "tomad", "tomen"]
+  imperativo-negativo: [null, "no tomes", "no tome", "no tomemos", "no toméis", "no tomen"]
+  subjuntivo: ["tome", "tomes", "tome", "tomemos", "toméis", "tomen"]
+  subjuntivo-imperfecto: ["tomara", "tomaras", "tomara", "tomáramos", "tomarais", "tomaran"]
+  perfecto: ["he tomado", "has tomado", "ha tomado", "hemos tomado", "habéis tomado", "han tomado"]
+  pluscuamperfecto: ["había tomado", "habías tomado", "había tomado", "habíamos tomado", "habíais tomado", "habían tomado"]
+expresiones:
+  - ["tomar café", "to have coffee"]
+  - ["tomar el bus", "to take the bus"]
+  - ["tomar una foto", "to take a photo"]
+  - ["tomar una decisión", "to make a decision"]
+  - ["tomar en cuenta", "to take into account"]
+  - ["tomar en serio", "to take seriously"]
+  - ["tomar el pelo", "to pull someone's leg"]
+  - ["tomar el sol", "to sunbathe"]
+  - ["¡Toma!", "Here you go!"]
+vos:
+  presente: tomás
+  imperativo: tomá
+examples:
+  presente: "*Tomo* café todas las mañanas."
+  indefinido: "Ayer *tomé* el bus al centro."
+  imperfecto: "De niño *tomaba* mucha leche."
+  futuro: "*Tomaré* un taxi al aeropuerto."
+  condicional: "¿*Tomarías* un café conmigo?"
+  imperativo: "*Toma* la pastilla después de comer."
+  subjuntivo: "Es importante que *tomes* agua."
+  subjuntivo-imperfecto: "Si *tomara* menos café, dormiría mejor."
+  perfecto: "¿Alguna vez *has tomado* atol de elote?"
+  pluscuamperfecto: "Nunca *había tomado* tanto café."
+  gerundio: "*Estoy tomando* clases de español."
+  participio: "Ya *he tomado* la pastilla."
+translations:
+  presente: I drink coffee every morning.
+  indefinido: Yesterday I took the bus downtown.
+  imperfecto: As a child I drank a lot of milk.
+  futuro: I'll take a taxi to the airport.
+  condicional: Would you have a coffee with me?
+  imperativo: Take the pill after eating.
+  subjuntivo: It's important that you drink water.
+  subjuntivo-imperfecto: If I drank less coffee, I'd sleep better.
+  perfecto: Have you ever had atol de elote?
+  pluscuamperfecto: I had never drunk so much coffee.
+  gerundio: I'm taking Spanish classes.
+  participio: I've already taken the pill.

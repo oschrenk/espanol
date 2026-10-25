@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: querer
+gloss: to want, to love
+tipo: irregular
+uso:
+  - ["want", "Quiero un café.", "I want a coffee."]
+  - ["want to", "Quiero bailar.", "I want to dance."]
+  - ["want + que", "Quiero que vengas.", "I want you to come."]
+  - ["love", "Te quiero mucho.", "I love you very much."]
+  - ["offer", "¿Quieres más tortillas?", "Want more tortillas?"]
+  - ["polite", "Quisiera una mesa.", "I'd like a table."]
+gerundio: queriendo
+participio: querido
+forms:
+  presente: ["qu[ie]ro", "qu[ie]res", "qu[ie]re", "queremos", "queréis", "qu[ie]ren"]
+  indefinido: ["[quis]e", "[quis]iste", "[quis]o", "[quis]imos", "[quis]isteis", "[quis]ieron"]
+  imperfecto: ["quería", "querías", "quería", "queríamos", "queríais", "querían"]
+  futuro: ["[querr]é", "[querr]ás", "[querr]á", "[querr]emos", "[querr]éis", "[querr]án"]
+  condicional: ["[querr]ía", "[querr]ías", "[querr]ía", "[querr]íamos", "[querr]íais", "[querr]ían"]
+  imperativo: [null, "qu[ie]re", "qu[ie]ra", "queramos", "quered", "qu[ie]ran"]
+  imperativo-negativo: [null, "no qu[ie]ras", "no qu[ie]ra", "no queramos", "no queráis", "no qu[ie]ran"]
+  subjuntivo: ["qu[ie]ra", "qu[ie]ras", "qu[ie]ra", "queramos", "queráis", "qu[ie]ran"]
+  subjuntivo-imperfecto: ["[quis]iera", "[quis]ieras", "[quis]iera", "[quis]iéramos", "[quis]ierais", "[quis]ieran"]
+  perfecto: ["he querido", "has querido", "ha querido", "hemos querido", "habéis querido", "han querido"]
+  pluscuamperfecto: ["había querido", "habías querido", "había querido", "habíamos querido", "habíais querido", "habían querido"]
+expresiones:
+  - ["querer + inf.", "to want to"]
+  - ["querer que + subj.", "to want someone to"]
+  - ["querer decir", "to mean"]
+  - ["sin querer", "by accident"]
+  - ["quisiera …", "I would like …"]
+  - ["te quiero", "I love you"]
+  - ["como quieras", "as you like"]
+  - ["cuando quieras", "whenever you want"]
+  - ["si Dios quiere", "God willing"]
+vos:
+  presente: querés
+  imperativo: queré
+examples:
+  presente: "*Quiero* un café, por favor."
+  indefinido: "*Quise* llamarte, pero no tenía saldo."
+  imperfecto: "De niño *quería* ser piloto."
+  futuro: "¿*Querrá* venir con nosotros?"
+  condicional: "*Querría* vivir cerca del lago."
+  imperativo: "*Quiere* mucho a tu familia."
+  subjuntivo: "Haz lo que *quieras*."
+  subjuntivo-imperfecto: "Si *quisieras*, podríamos ir al mercado."
+  perfecto: "Siempre *he querido* conocer Tikal."
+  pluscuamperfecto: "Nunca *había querido* tanto a un perro."
+  gerundio: "No fue accidente, lo hizo *queriendo*."
+  participio: "Es un maestro muy *querido*."
+translations:
+  presente: I'd like a coffee, please.
+  indefinido: I tried to call you, but had no credit.
+  imperfecto: As a child I wanted to be a pilot.
+  futuro: I wonder if he'll want to come with us.
+  condicional: I would like to live near the lake.
+  imperativo: Love your family a lot.
+  subjuntivo: Do whatever you want.
+  subjuntivo-imperfecto: If you wanted, we could go to the market.
+  perfecto: I've always wanted to visit Tikal.
+  pluscuamperfecto: I had never loved a dog so much.
+  gerundio: It was no accident, he did it on purpose.
+  participio: He's a much-loved teacher.

@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: pensar
+gloss: to think
+tipo: con cambio de raíz
+uso:
+  - ["think", "Pienso que sí.", "I think so."]
+  - ["pensar en", "Pienso en ti.", "I'm thinking of you."]
+  - ["pensar + inf.", "Pienso ir a Xela.", "I plan to go to Xela."]
+  - ["opinion", "¿Qué piensas?", "What do you think?"]
+  - ["consider", "Piénsalo bien.", "Think it over."]
+  - ["believe", "Pensaba que eras tú.", "I thought it was you."]
+gerundio: pensando
+participio: pensado
+forms:
+  presente: ["p[ie]nso", "p[ie]nsas", "p[ie]nsa", "pensamos", "pensáis", "p[ie]nsan"]
+  indefinido: ["pensé", "pensaste", "pensó", "pensamos", "pensasteis", "pensaron"]
+  imperfecto: ["pensaba", "pensabas", "pensaba", "pensábamos", "pensabais", "pensaban"]
+  futuro: ["pensaré", "pensarás", "pensará", "pensaremos", "pensaréis", "pensarán"]
+  condicional: ["pensaría", "pensarías", "pensaría", "pensaríamos", "pensaríais", "pensarían"]
+  imperativo: [null, "p[ie]nsa", "p[ie]nse", "pensemos", "pensad", "p[ie]nsen"]
+  imperativo-negativo: [null, "no p[ie]nses", "no p[ie]nse", "no pensemos", "no penséis", "no p[ie]nsen"]
+  subjuntivo: ["p[ie]nse", "p[ie]nses", "p[ie]nse", "pensemos", "penséis", "p[ie]nsen"]
+  subjuntivo-imperfecto: ["pensara", "pensaras", "pensara", "pensáramos", "pensarais", "pensaran"]
+  perfecto: ["he pensado", "has pensado", "ha pensado", "hemos pensado", "habéis pensado", "han pensado"]
+  pluscuamperfecto: ["había pensado", "habías pensado", "había pensado", "habíamos pensado", "habíais pensado", "habían pensado"]
+expresiones:
+  - ["pensar en", "to think about"]
+  - ["pensar + inf.", "to plan to"]
+  - ["pensar de", "to think of (opinion)"]
+  - ["pensar que sí / no", "to think so / not"]
+  - ["¡Ni lo pienses!", "Don't even think about it!"]
+  - ["pensándolo bien", "on second thought"]
+  - ["sin pensar", "without thinking"]
+  - ["pensar en voz alta", "to think out loud"]
+  - ["dar que pensar", "to give food for thought"]
+vos:
+  presente: pensás
+  imperativo: pensá
+examples:
+  presente: "*Pienso* en mi familia todos los días."
+  indefinido: "Ayer *pensé* en ti."
+  imperfecto: "*Pensaba* que era más caro."
+  futuro: "Lo *pensaré* esta noche."
+  condicional: "¿Qué *pensarías* tú?"
+  imperativo: "*Piensa* antes de hablar."
+  subjuntivo: "No quiero que *pienses* eso."
+  subjuntivo-imperfecto: "Si *pensaras* así, no lo harías."
+  perfecto: "¿Ya *has pensado* en el viaje?"
+  pluscuamperfecto: "Nunca *había pensado* en eso."
+  gerundio: "*Estoy pensando* en comprar un carro."
+  participio: "Ya lo *he pensado* bien."
+translations:
+  presente: I think about my family every day.
+  indefinido: Yesterday I thought about you.
+  imperfecto: I thought it was more expensive.
+  futuro: I'll think about it tonight.
+  condicional: What would you think?
+  imperativo: Think before you speak.
+  subjuntivo: I don't want you to think that.
+  subjuntivo-imperfecto: If you thought that, you wouldn't do it.
+  perfecto: Have you thought about the trip yet?
+  pluscuamperfecto: I had never thought about that.
+  gerundio: I'm thinking about buying a car.
+  participio: I've already thought it through.

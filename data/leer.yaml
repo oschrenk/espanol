@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: leer
+gloss: to read
+tipo: con cambio ortográfico
+uso:
+  - ["read", "Leo el periódico.", "I read the paper."]
+  - ["aloud", "Leo en voz alta.", "I read aloud."]
+  - ["read to", "Le leo un cuento.", "I read him a story."]
+  - ["lip-read", "Lee los labios.", "She reads lips."]
+  - ["mind", "¿Me lees la mente?", "Can you read my mind?"]
+  - ["subtext", "Lee entre líneas.", "Read between the lines."]
+gerundio: "le[y]endo"
+participio: leído
+forms:
+  presente: ["leo", "lees", "lee", "leemos", "leéis", "leen"]
+  indefinido: ["leí", "leíste", "le[y]ó", "leímos", "leísteis", "le[y]eron"]
+  imperfecto: ["leía", "leías", "leía", "leíamos", "leíais", "leían"]
+  futuro: ["leeré", "leerás", "leerá", "leeremos", "leeréis", "leerán"]
+  condicional: ["leería", "leerías", "leería", "leeríamos", "leeríais", "leerían"]
+  imperativo: [null, "lee", "lea", "leamos", "leed", "lean"]
+  imperativo-negativo: [null, "no leas", "no lea", "no leamos", "no leáis", "no lean"]
+  subjuntivo: ["lea", "leas", "lea", "leamos", "leáis", "lean"]
+  subjuntivo-imperfecto: ["le[y]era", "le[y]eras", "le[y]era", "le[y]éramos", "le[y]erais", "le[y]eran"]
+  perfecto: ["he leído", "has leído", "ha leído", "hemos leído", "habéis leído", "han leído"]
+  pluscuamperfecto: ["había leído", "habías leído", "había leído", "habíamos leído", "habíais leído", "habían leído"]
+expresiones:
+  - ["leer en voz alta", "to read aloud"]
+  - ["leer en voz baja", "to read quietly"]
+  - ["leer entre líneas", "to read between the lines"]
+  - ["leer la mente", "to read someone's mind"]
+  - ["leer los labios", "to lip-read"]
+  - ["leer la mano", "to read palms"]
+  - ["leer de corrido", "to read fluently"]
+  - ["leer por encima", "to skim"]
+  - ["dejar en leído", "to leave on read"]
+vos:
+  presente: leés
+  imperativo: leé
+examples:
+  presente: "*Leo* las noticias en el celular."
+  indefinido: "Mi hijo *leyó* todo el libro."
+  imperfecto: "De niño *leía* cuentos antes de dormir."
+  futuro: "Lo *leeré* en la camioneta."
+  condicional: "*Leería* más si tuviera tiempo."
+  imperativo: "*Lee* las instrucciones primero."
+  subjuntivo: "Quiero que *leas* este libro."
+  subjuntivo-imperfecto: "Si *leyeras* más, escribirías mejor."
+  perfecto: "¿Alguna vez *has leído* a Asturias?"
+  pluscuamperfecto: "Nunca *había leído* en español."
+  gerundio: "*Estoy leyendo* el periódico."
+  participio: "Ya *he leído* tu correo."
+translations:
+  presente: I read the news on my phone.
+  indefinido: My son read the whole book.
+  imperfecto: As a child I read stories before bed.
+  futuro: I'll read it on the bus.
+  condicional: I'd read more if I had time.
+  imperativo: Read the instructions first.
+  subjuntivo: I want you to read this book.
+  subjuntivo-imperfecto: If you read more, you'd write better.
+  perfecto: Have you ever read Asturias?
+  pluscuamperfecto: I had never read in Spanish.
+  gerundio: I'm reading the newspaper.
+  participio: I've already read your email.

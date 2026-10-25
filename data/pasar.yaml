@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: pasar
+gloss: to pass, to happen, to spend
+tipo: regular
+uso:
+  - ["happen", "¿Qué pasó?", "What happened?"]
+  - ["stop by", "Paso por tu casa.", "I'll stop by your house."]
+  - ["spend time", "Pasé el día en Xela.", "I spent the day in Xela."]
+  - ["come in", "Pase adelante.", "Come in."]
+  - ["hand over", "¿Me pasas la sal?", "Can you pass me the salt?"]
+  - ["pass (exam)", "Pasé el examen.", "I passed the exam."]
+gerundio: pasando
+participio: pasado
+forms:
+  presente: ["paso", "pasas", "pasa", "pasamos", "pasáis", "pasan"]
+  indefinido: ["pasé", "pasaste", "pasó", "pasamos", "pasasteis", "pasaron"]
+  imperfecto: ["pasaba", "pasabas", "pasaba", "pasábamos", "pasabais", "pasaban"]
+  futuro: ["pasaré", "pasarás", "pasará", "pasaremos", "pasaréis", "pasarán"]
+  condicional: ["pasaría", "pasarías", "pasaría", "pasaríamos", "pasaríais", "pasarían"]
+  imperativo: [null, "pasa", "pase", "pasemos", "pasad", "pasen"]
+  imperativo-negativo: [null, "no pases", "no pase", "no pasemos", "no paséis", "no pasen"]
+  subjuntivo: ["pase", "pases", "pase", "pasemos", "paséis", "pasen"]
+  subjuntivo-imperfecto: ["pasara", "pasaras", "pasara", "pasáramos", "pasarais", "pasaran"]
+  perfecto: ["he pasado", "has pasado", "ha pasado", "hemos pasado", "habéis pasado", "han pasado"]
+  pluscuamperfecto: ["había pasado", "habías pasado", "había pasado", "habíamos pasado", "habíais pasado", "habían pasado"]
+expresiones:
+  - ["¿qué pasó?", "what happened?"]
+  - ["¿qué te pasa?", "what's wrong?"]
+  - ["pase adelante", "come in"]
+  - ["pasarla bien", "to have a good time"]
+  - ["pasar por", "to stop by, to pick up"]
+  - ["pasar tiempo", "to spend time"]
+  - ["pasar de moda", "to go out of style"]
+  - ["pasarse de listo", "to be too clever by half"]
+  - ["lo que pasa es que …", "the thing is …"]
+vos:
+  presente: pasás
+  imperativo: pasá
+examples:
+  presente: "El bus *pasa* cada diez minutos."
+  indefinido: "¿Qué *pasó* ayer en la reunión?"
+  imperfecto: "De niño *pasaba* las vacaciones en Xela."
+  futuro: "Mañana *pasaré* por tu casa."
+  condicional: "Yo *pasaría* más tiempo con mi familia."
+  imperativo: "*Pase* adelante, por favor."
+  subjuntivo: "Espero que *pases* un buen día."
+  subjuntivo-imperfecto: "Si *pasaras* el examen, ¿qué harías?"
+  perfecto: "¿*Has pasado* una noche en un volcán?"
+  pluscuamperfecto: "Nunca me *había pasado* algo así."
+  gerundio: "¿Qué *está pasando* aquí?"
+  participio: "El año *pasado* fuimos a Tikal."
+translations:
+  presente: The bus comes every ten minutes.
+  indefinido: What happened at the meeting yesterday?
+  imperfecto: As a child I spent my holidays in Xela.
+  futuro: Tomorrow I'll stop by your house.
+  condicional: I would spend more time with my family.
+  imperativo: Come in, please.
+  subjuntivo: I hope you have a good day.
+  subjuntivo-imperfecto: If you passed the exam, what would you do?
+  perfecto: Have you ever spent a night on a volcano?
+  pluscuamperfecto: Nothing like that had ever happened to me.
+  gerundio: What's going on here?
+  participio: Last year we went to Tikal.

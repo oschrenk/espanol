@@ -1,0 +1,64 @@
+# Brackets mark the irregular part of a form. Persons: yo, tú, él, nosotros, vosotros, ellos.
+inf: buscar
+gloss: to look for
+tipo: con cambio ortográfico
+uso:
+  - ["look for", "Busco mis llaves.", "Looking for my keys."]
+  - ["search", "Lo busqué en Google.", "I googled it."]
+  - ["pick up", "Te busco a las seis.", "I'll get you at six."]
+  - ["seek", "Busca trabajo.", "He's seeking work."]
+  - ["look up", "Busca la palabra.", "Look up the word."]
+  - ["want, aim for", "¿Qué buscas?", "What are you after?"]
+gerundio: buscando
+participio: buscado
+forms:
+  presente: ["busco", "buscas", "busca", "buscamos", "buscáis", "buscan"]
+  indefinido: ["bus[qu]é", "buscaste", "buscó", "buscamos", "buscasteis", "buscaron"]
+  imperfecto: ["buscaba", "buscabas", "buscaba", "buscábamos", "buscabais", "buscaban"]
+  futuro: ["buscaré", "buscarás", "buscará", "buscaremos", "buscaréis", "buscarán"]
+  condicional: ["buscaría", "buscarías", "buscaría", "buscaríamos", "buscaríais", "buscarían"]
+  imperativo: [null, "busca", "bus[qu]e", "bus[qu]emos", "buscad", "bus[qu]en"]
+  imperativo-negativo: [null, "no bus[qu]es", "no bus[qu]e", "no bus[qu]emos", "no bus[qu]éis", "no bus[qu]en"]
+  subjuntivo: ["bus[qu]e", "bus[qu]es", "bus[qu]e", "bus[qu]emos", "bus[qu]éis", "bus[qu]en"]
+  subjuntivo-imperfecto: ["buscara", "buscaras", "buscara", "buscáramos", "buscarais", "buscaran"]
+  perfecto: ["he buscado", "has buscado", "ha buscado", "hemos buscado", "habéis buscado", "han buscado"]
+  pluscuamperfecto: ["había buscado", "habías buscado", "había buscado", "habíamos buscado", "habíais buscado", "habían buscado"]
+expresiones:
+  - ["buscar trabajo", "to look for work"]
+  - ["ir a buscar", "to go and get, to fetch"]
+  - ["pasar a buscar", "to pick someone up"]
+  - ["buscar casa", "to look for a place"]
+  - ["buscar en internet", "to search online"]
+  - ["buscar problemas", "to look for trouble"]
+  - ["buscar pleito", "to pick a fight"]
+  - ["se busca", "wanted"]
+  - ["quien busca, encuentra", "seek and you shall find"]
+vos:
+  presente: buscás
+  imperativo: buscá
+examples:
+  presente: "Mi hermana *busca* apartamento."
+  indefinido: "Ayer *busqué* mi celular en todos lados."
+  imperfecto: "De niño *buscaba* ranas en el río."
+  futuro: "Mañana *buscaré* un mecánico."
+  condicional: "Yo *buscaría* otro carro."
+  imperativo: "*Busca* la dirección en el mapa."
+  subjuntivo: "Quiero que *busques* las llaves."
+  subjuntivo-imperfecto: "Si *buscaras* bien, lo encontrarías."
+  perfecto: "¿Ya *has buscado* en la mochila?"
+  pluscuamperfecto: "Ya *había buscado* en todas partes."
+  gerundio: "*Estoy buscando* un buen café."
+  participio: "Es un libro muy *buscado*."
+translations:
+  presente: My sister is looking for an apartment.
+  indefinido: Yesterday I looked everywhere for my phone.
+  imperfecto: As a kid he looked for frogs in the river.
+  futuro: Tomorrow I'll look for a mechanic.
+  condicional: I would look for another car.
+  imperativo: Look up the address on the map.
+  subjuntivo: I want you to look for the keys.
+  subjuntivo-imperfecto: If you looked properly, you'd find it.
+  perfecto: Have you looked in the backpack yet?
+  pluscuamperfecto: I had already looked everywhere.
+  gerundio: I'm looking for a good coffee.
+  participio: It's a much sought-after book.

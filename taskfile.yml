@@ -15,21 +15,12 @@ tasks:
       - typstyle --inplace theme.typ
       - typstyle --inplace {{.SRC}}
 
-  pdf:
-    desc: Compile verbs to PDF
-    sources:
-      - "{{.SRC}}"
-      - theme.typ
-      - rules.typ
-      - serestar.typ
-      - regulares.typ
-      - data/*.yaml
-    generates:
-      - "{{.OUT}}"
+  a5:
+    desc: Compile verbs to an A5 PDF
     cmds:
       - typst compile --ignore-system-fonts {{.SRC}} {{.OUT}}
 
-  mediacarta:
+  pdf:
     desc: Build media carta and the Letter spread print file (try margins with MX=8mm MT=5mm MB=5mm)
     vars:
       MX: '{{.MX | default "8mm"}}'
@@ -52,4 +43,4 @@ tasks:
   clean:
     desc: Remove build output
     cmds:
-      - rm -f {{.OUT}}
+      - rm -f {{.OUT}} Español-mediacarta.pdf Español-carta-2up.pdf

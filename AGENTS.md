@@ -8,16 +8,18 @@ Issues live in lific project `ESP`.
 ## Build
 
 ```sh
-nix develop -c task pdf     # build Español.pdf
-nix develop -c task watch   # rebuild on every change
+nix develop -c task pdf     # build Español-mediacarta.pdf and Español-carta-2up.pdf
+nix develop -c task a5      # build Español.pdf on A5
+nix develop -c task watch   # rebuild Español.pdf on every change
 ```
 
 `direnv` loads the dev shell, so inside the directory `task pdf` works on its own.
+Every build compiles again, even when nothing changed.
 
-`task mediacarta` builds the same document on media carta (half Letter) and `Español-carta-2up.pdf` from it with `impose.typ`.
+`task pdf` builds the document on media carta (half Letter) and `Español-carta-2up.pdf` from it with `impose.typ`.
 `docs/binding.md` defines the terms and describes the imposition.
 Landscape media carta is 8 mm shorter than A5, so it needs 5 mm top and bottom margins (`MT`, `MB`).
-To try others, run `task mediacarta MT=6mm MB=6mm` and check the page count.
+To try others, run `task pdf MT=6mm MB=6mm` and check the page count.
 Typst runs with `--ignore-system-fonts`.
 The only fonts are the ones `flake.nix` copies into `TYPST_FONT_PATHS`.
 
